@@ -1,0 +1,8503 @@
+{
+  "co2": [
+    {
+      "id": "ba7e",
+      "power": "25.21",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743452662147
+    },
+    {
+      "id": "ee74",
+      "power": "18.58",
+      "intensity": 500,
+      "emissions": "0.01",
+      "date": 1743452666835
+    },
+    {
+      "id": "31e4",
+      "power": "16.23",
+      "intensity": 500,
+      "emissions": "0.01",
+      "date": 1743452671796
+    },
+    {
+      "id": "92c0",
+      "power": "14.90",
+      "intensity": 500,
+      "emissions": "0.01",
+      "date": 1743452676858
+    },
+    {
+      "id": "1c17",
+      "power": "15.29",
+      "intensity": 500,
+      "emissions": "0.01",
+      "date": 1743452681821
+    },
+    {
+      "id": "814b",
+      "power": "15.07",
+      "intensity": 500,
+      "emissions": "0.01",
+      "date": 1743452686817
+    },
+    {
+      "id": "c894",
+      "power": "18.26",
+      "intensity": 500,
+      "emissions": "0.01",
+      "date": 1743452692407
+    },
+    {
+      "id": "d09f",
+      "power": "17.33",
+      "intensity": 500,
+      "emissions": "0.01",
+      "date": 1743452697351
+    },
+    {
+      "id": "86d0",
+      "power": "16.82",
+      "intensity": 500,
+      "emissions": "0.01",
+      "date": 1743452702437
+    },
+    {
+      "id": "04b1",
+      "power": "18.84",
+      "intensity": 500,
+      "emissions": "0.01",
+      "date": 1743452707346
+    },
+    {
+      "id": "557a",
+      "power": "20.81",
+      "intensity": 500,
+      "emissions": "0.01",
+      "date": 1743452711877
+    },
+    {
+      "id": "7e96",
+      "power": "20.19",
+      "intensity": 500,
+      "emissions": "0.01",
+      "date": 1743452717564
+    },
+    {
+      "id": "5acb",
+      "power": "25.21",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743452725242
+    },
+    {
+      "id": "a190",
+      "power": "15.55",
+      "intensity": 500,
+      "emissions": "0.01",
+      "date": 1743452730250
+    },
+    {
+      "id": "7baa",
+      "power": "15.31",
+      "intensity": 500,
+      "emissions": "0.01",
+      "date": 1743452735279
+    },
+    {
+      "id": "859c",
+      "power": "17.72",
+      "intensity": 500,
+      "emissions": "0.01",
+      "date": 1743452740670
+    },
+    {
+      "id": "debd",
+      "power": "23.08",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743452745443
+    },
+    {
+      "id": "3d4b",
+      "power": "18.86",
+      "intensity": 500,
+      "emissions": "0.01",
+      "date": 1743452750499
+    },
+    {
+      "id": "fee1",
+      "power": "25.20",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743452779034
+    },
+    {
+      "id": "c489",
+      "power": "16.80",
+      "intensity": 500,
+      "emissions": "0.01",
+      "date": 1743452784035
+    },
+    {
+      "id": "dce1",
+      "power": "15.91",
+      "intensity": 500,
+      "emissions": "0.01",
+      "date": 1743452789037
+    },
+    {
+      "id": "e731",
+      "power": "15.99",
+      "intensity": 500,
+      "emissions": "0.01",
+      "date": 1743452794014
+    },
+    {
+      "id": "9b92",
+      "power": "15.27",
+      "intensity": 500,
+      "emissions": "0.01",
+      "date": 1743452799030
+    },
+    {
+      "id": "44e3",
+      "power": "21.37",
+      "intensity": 500,
+      "emissions": "0.01",
+      "date": 1743452804369
+    },
+    {
+      "id": "fbb9",
+      "power": "25.20",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743452817393
+    },
+    {
+      "id": "759e",
+      "power": "16.92",
+      "intensity": 500,
+      "emissions": "0.01",
+      "date": 1743452822429
+    },
+    {
+      "id": "9393",
+      "power": "16.30",
+      "intensity": 500,
+      "emissions": "0.01",
+      "date": 1743452827319
+    },
+    {
+      "id": "98ed",
+      "power": "15.61",
+      "intensity": 500,
+      "emissions": "0.01",
+      "date": 1743452832327
+    },
+    {
+      "id": "bb96",
+      "power": "17.39",
+      "intensity": 500,
+      "emissions": "0.01",
+      "date": 1743452836970
+    },
+    {
+      "id": "601c",
+      "power": "24.19",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743452842605
+    },
+    {
+      "id": "f03f",
+      "power": "20.14",
+      "intensity": 500,
+      "emissions": "0.01",
+      "date": 1743452847441
+    },
+    {
+      "id": "88f5",
+      "power": "25.20",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743452857310
+    },
+    {
+      "id": "f8d6",
+      "power": "16.85",
+      "intensity": 500,
+      "emissions": "0.01",
+      "date": 1743452862262
+    },
+    {
+      "id": "ec2a",
+      "power": "15.82",
+      "intensity": 500,
+      "emissions": "0.01",
+      "date": 1743452867284
+    },
+    {
+      "id": "3df0",
+      "power": "15.84",
+      "intensity": 500,
+      "emissions": "0.01",
+      "date": 1743452872224
+    },
+    {
+      "id": "6608",
+      "power": "15.22",
+      "intensity": 500,
+      "emissions": "0.01",
+      "date": 1743452877285
+    },
+    {
+      "id": "0442",
+      "power": "21.22",
+      "intensity": 500,
+      "emissions": "0.01",
+      "date": 1743452882484
+    },
+    {
+      "id": "3280",
+      "power": "20.30",
+      "intensity": 500,
+      "emissions": "0.01",
+      "date": 1743452887406
+    },
+    {
+      "id": "0237",
+      "power": "21.40",
+      "intensity": 500,
+      "emissions": "0.01",
+      "date": 1743452892566
+    },
+    {
+      "id": "0f14",
+      "power": "20.21",
+      "intensity": 500,
+      "emissions": "0.01",
+      "date": 1743452897386
+    },
+    {
+      "id": "f709",
+      "power": "17.83",
+      "intensity": 500,
+      "emissions": "0.01",
+      "date": 1743452902439
+    },
+    {
+      "id": "2ade",
+      "power": "18.14",
+      "intensity": 500,
+      "emissions": "0.01",
+      "date": 1743452907363
+    },
+    {
+      "id": "a7a3",
+      "power": "17.58",
+      "intensity": 500,
+      "emissions": "0.01",
+      "date": 1743452912370
+    },
+    {
+      "id": "dceb",
+      "power": "20.11",
+      "intensity": 500,
+      "emissions": "0.01",
+      "date": 1743452917544
+    },
+    {
+      "id": "5850",
+      "power": "18.81",
+      "intensity": 500,
+      "emissions": "0.01",
+      "date": 1743452922340
+    },
+    {
+      "id": "73ba",
+      "power": "15.73",
+      "intensity": 500,
+      "emissions": "0.01",
+      "date": 1743452927450
+    },
+    {
+      "id": "f6fa",
+      "power": "16.37",
+      "intensity": 500,
+      "emissions": "0.01",
+      "date": 1743452932367
+    },
+    {
+      "id": "3f41",
+      "power": "16.21",
+      "intensity": 500,
+      "emissions": "0.01",
+      "date": 1743452937365
+    },
+    {
+      "id": "f1c3",
+      "power": "25.20",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743452995545
+    },
+    {
+      "id": "b690",
+      "power": "21.34",
+      "intensity": 500,
+      "emissions": "0.01",
+      "date": 1743453000366
+    },
+    {
+      "id": "9a17",
+      "power": "16.59",
+      "intensity": 500,
+      "emissions": "0.01",
+      "date": 1743453005518
+    },
+    {
+      "id": "723e",
+      "power": "21.79",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743453010467
+    },
+    {
+      "id": "b9c6",
+      "power": "17.83",
+      "intensity": 500,
+      "emissions": "0.01",
+      "date": 1743453015398
+    },
+    {
+      "id": "7ac3",
+      "power": "12.77",
+      "intensity": 500,
+      "emissions": "0.01",
+      "date": 1743453056489
+    },
+    {
+      "id": "755f",
+      "power": "25.19",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743453107453
+    },
+    {
+      "id": "a0de",
+      "power": "18.12",
+      "intensity": 500,
+      "emissions": "0.01",
+      "date": 1743453112392
+    },
+    {
+      "id": "be5a",
+      "power": "17.81",
+      "intensity": 500,
+      "emissions": "0.01",
+      "date": 1743453117399
+    },
+    {
+      "id": "4235",
+      "power": "17.03",
+      "intensity": 500,
+      "emissions": "0.01",
+      "date": 1743453122370
+    },
+    {
+      "id": "43e7",
+      "power": "16.48",
+      "intensity": 500,
+      "emissions": "0.01",
+      "date": 1743453127352
+    },
+    {
+      "id": "5ea0",
+      "power": "10.70",
+      "intensity": 500,
+      "emissions": "0.01",
+      "date": 1743453164055
+    },
+    {
+      "id": "6605",
+      "power": "30.33",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743453166940
+    },
+    {
+      "id": "34a4",
+      "power": "15.99",
+      "intensity": 500,
+      "emissions": "0.01",
+      "date": 1743453171983
+    },
+    {
+      "id": "f814",
+      "power": "19.50",
+      "intensity": 500,
+      "emissions": "0.01",
+      "date": 1743453177446
+    },
+    {
+      "id": "9e58",
+      "power": "19.44",
+      "intensity": 500,
+      "emissions": "0.01",
+      "date": 1743453182589
+    },
+    {
+      "id": "3cc5",
+      "power": "25.19",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743453192476
+    },
+    {
+      "id": "ba3c",
+      "power": "21.22",
+      "intensity": 500,
+      "emissions": "0.01",
+      "date": 1743453197358
+    },
+    {
+      "id": "0b88",
+      "power": "20.07",
+      "intensity": 500,
+      "emissions": "0.01",
+      "date": 1743453202365
+    },
+    {
+      "id": "6dbd",
+      "power": "16.85",
+      "intensity": 500,
+      "emissions": "0.01",
+      "date": 1743453207337
+    },
+    {
+      "id": "5ae0",
+      "power": "16.02",
+      "intensity": 500,
+      "emissions": "0.01",
+      "date": 1743453212269
+    },
+    {
+      "id": "0dd4",
+      "power": "16.12",
+      "intensity": 500,
+      "emissions": "0.01",
+      "date": 1743453217354
+    },
+    {
+      "id": "09b3",
+      "power": "19.65",
+      "intensity": 500,
+      "emissions": "0.01",
+      "date": 1743453222380
+    },
+    {
+      "id": "a2d0",
+      "power": "15.89",
+      "intensity": 500,
+      "emissions": "0.01",
+      "date": 1743453227370
+    },
+    {
+      "id": "3b99",
+      "power": "15.60",
+      "intensity": 500,
+      "emissions": "0.01",
+      "date": 1743453232415
+    },
+    {
+      "id": "9720",
+      "power": "16.37",
+      "intensity": 500,
+      "emissions": "0.01",
+      "date": 1743453237416
+    },
+    {
+      "id": "f078",
+      "power": "15.54",
+      "intensity": 500,
+      "emissions": "0.01",
+      "date": 1743453242389
+    },
+    {
+      "id": "636a",
+      "power": "16.78",
+      "intensity": 500,
+      "emissions": "0.01",
+      "date": 1743453247386
+    },
+    {
+      "id": "cc78",
+      "power": "15.76",
+      "intensity": 500,
+      "emissions": "0.01",
+      "date": 1743453252364
+    },
+    {
+      "id": "c9e0",
+      "power": "16.13",
+      "intensity": 500,
+      "emissions": "0.01",
+      "date": 1743453257359
+    },
+    {
+      "id": "c7f9",
+      "power": "17.00",
+      "intensity": 500,
+      "emissions": "0.01",
+      "date": 1743453262373
+    },
+    {
+      "id": "3eaf",
+      "power": "15.97",
+      "intensity": 500,
+      "emissions": "0.01",
+      "date": 1743453267345
+    },
+    {
+      "id": "0cc0",
+      "power": "15.28",
+      "intensity": 500,
+      "emissions": "0.01",
+      "date": 1743453272368
+    },
+    {
+      "id": "c989",
+      "power": "17.93",
+      "intensity": 500,
+      "emissions": "0.01",
+      "date": 1743453277350
+    },
+    {
+      "id": "261f",
+      "power": "12.35",
+      "intensity": 500,
+      "emissions": "0.01",
+      "date": 1743453296447
+    },
+    {
+      "id": "8194",
+      "power": "9.29",
+      "intensity": 500,
+      "emissions": "0.01",
+      "date": 1743453356451
+    },
+    {
+      "id": "6822",
+      "power": "9.21",
+      "intensity": 500,
+      "emissions": "0.01",
+      "date": 1743453416527
+    },
+    {
+      "id": "c807",
+      "power": "9.57",
+      "intensity": 500,
+      "emissions": "0.01",
+      "date": 1743453476594
+    },
+    {
+      "id": "7528",
+      "power": "12.55",
+      "intensity": 500,
+      "emissions": "0.01",
+      "date": 1743453530999
+    },
+    {
+      "id": "c83b",
+      "power": "42.75",
+      "intensity": 500,
+      "emissions": "0.03",
+      "date": 1743453532350
+    },
+    {
+      "id": "b09a",
+      "power": "21.42",
+      "intensity": 500,
+      "emissions": "0.01",
+      "date": 1743453537303
+    },
+    {
+      "id": "2ad6",
+      "power": "18.69",
+      "intensity": 500,
+      "emissions": "0.01",
+      "date": 1743453542294
+    },
+    {
+      "id": "c2d6",
+      "power": "19.74",
+      "intensity": 500,
+      "emissions": "0.01",
+      "date": 1743453547252
+    },
+    {
+      "id": "dba6",
+      "power": "16.22",
+      "intensity": 500,
+      "emissions": "0.01",
+      "date": 1743453552299
+    },
+    {
+      "id": "5466",
+      "power": "15.48",
+      "intensity": 500,
+      "emissions": "0.01",
+      "date": 1743453557301
+    },
+    {
+      "id": "df0e",
+      "power": "17.17",
+      "intensity": 500,
+      "emissions": "0.01",
+      "date": 1743453562315
+    },
+    {
+      "id": "30fa",
+      "power": "16.33",
+      "intensity": 500,
+      "emissions": "0.01",
+      "date": 1743453567301
+    },
+    {
+      "id": "e189",
+      "power": "16.01",
+      "intensity": 500,
+      "emissions": "0.01",
+      "date": 1743453572256
+    },
+    {
+      "id": "9766",
+      "power": "15.38",
+      "intensity": 500,
+      "emissions": "0.01",
+      "date": 1743453577273
+    },
+    {
+      "id": "2623",
+      "power": "15.72",
+      "intensity": 500,
+      "emissions": "0.01",
+      "date": 1743453582259
+    },
+    {
+      "id": "bce7",
+      "power": "17.87",
+      "intensity": 500,
+      "emissions": "0.01",
+      "date": 1743453587255
+    },
+    {
+      "id": "80b1",
+      "power": "15.17",
+      "intensity": 500,
+      "emissions": "0.01",
+      "date": 1743453592288
+    },
+    {
+      "id": "24fe",
+      "power": "18.09",
+      "intensity": 500,
+      "emissions": "0.01",
+      "date": 1743453597258
+    },
+    {
+      "id": "1f6e",
+      "power": "15.44",
+      "intensity": 500,
+      "emissions": "0.01",
+      "date": 1743453602261
+    },
+    {
+      "id": "74ea",
+      "power": "16.82",
+      "intensity": 500,
+      "emissions": "0.01",
+      "date": 1743453607323
+    },
+    {
+      "id": "40a1",
+      "power": "16.33",
+      "intensity": 500,
+      "emissions": "0.01",
+      "date": 1743453612248
+    },
+    {
+      "id": "089a",
+      "power": "15.40",
+      "intensity": 500,
+      "emissions": "0.01",
+      "date": 1743453617237
+    },
+    {
+      "id": "cfa7",
+      "power": "14.86",
+      "intensity": 500,
+      "emissions": "0.01",
+      "date": 1743453622274
+    },
+    {
+      "id": "ebe7",
+      "power": "15.30",
+      "intensity": 500,
+      "emissions": "0.01",
+      "date": 1743453627279
+    },
+    {
+      "id": "9e39",
+      "power": "15.50",
+      "intensity": 500,
+      "emissions": "0.01",
+      "date": 1743453632255
+    },
+    {
+      "id": "37a9",
+      "power": "15.34",
+      "intensity": 500,
+      "emissions": "0.01",
+      "date": 1743453637310
+    },
+    {
+      "id": "aec1",
+      "power": "16.23",
+      "intensity": 500,
+      "emissions": "0.01",
+      "date": 1743453642273
+    },
+    {
+      "id": "a2d1",
+      "power": "15.45",
+      "intensity": 500,
+      "emissions": "0.01",
+      "date": 1743453647280
+    },
+    {
+      "id": "75b4",
+      "power": "15.43",
+      "intensity": 500,
+      "emissions": "0.01",
+      "date": 1743453652316
+    },
+    {
+      "id": "f1c0",
+      "power": "15.93",
+      "intensity": 500,
+      "emissions": "0.01",
+      "date": 1743453657248
+    },
+    {
+      "id": "b54f",
+      "power": "16.48",
+      "intensity": 500,
+      "emissions": "0.01",
+      "date": 1743453662274
+    },
+    {
+      "id": "ec4a",
+      "power": "16.44",
+      "intensity": 500,
+      "emissions": "0.01",
+      "date": 1743453667291
+    },
+    {
+      "id": "eb0f",
+      "power": "15.93",
+      "intensity": 500,
+      "emissions": "0.01",
+      "date": 1743453672282
+    },
+    {
+      "id": "cddc",
+      "power": "16.16",
+      "intensity": 500,
+      "emissions": "0.01",
+      "date": 1743453677256
+    },
+    {
+      "id": "d13c",
+      "power": "15.86",
+      "intensity": 500,
+      "emissions": "0.01",
+      "date": 1743453682309
+    },
+    {
+      "id": "d335",
+      "power": "16.27",
+      "intensity": 500,
+      "emissions": "0.01",
+      "date": 1743453687302
+    },
+    {
+      "id": "07e3",
+      "power": "15.45",
+      "intensity": 500,
+      "emissions": "0.01",
+      "date": 1743453692266
+    },
+    {
+      "id": "1ed7",
+      "power": "15.64",
+      "intensity": 500,
+      "emissions": "0.01",
+      "date": 1743453697266
+    },
+    {
+      "id": "253b",
+      "power": "16.20",
+      "intensity": 500,
+      "emissions": "0.01",
+      "date": 1743453702266
+    },
+    {
+      "id": "b796",
+      "power": "15.51",
+      "intensity": 500,
+      "emissions": "0.01",
+      "date": 1743453707266
+    },
+    {
+      "id": "7688",
+      "power": "15.95",
+      "intensity": 500,
+      "emissions": "0.01",
+      "date": 1743453712312
+    },
+    {
+      "id": "e3bd",
+      "power": "16.42",
+      "intensity": 500,
+      "emissions": "0.01",
+      "date": 1743453717252
+    },
+    {
+      "id": "a15b",
+      "power": "15.69",
+      "intensity": 500,
+      "emissions": "0.01",
+      "date": 1743453722340
+    },
+    {
+      "id": "359e",
+      "power": "15.65",
+      "intensity": 500,
+      "emissions": "0.01",
+      "date": 1743453727320
+    },
+    {
+      "id": "cd7b",
+      "power": "15.78",
+      "intensity": 500,
+      "emissions": "0.01",
+      "date": 1743453732300
+    },
+    {
+      "id": "9c40",
+      "power": "15.54",
+      "intensity": 500,
+      "emissions": "0.01",
+      "date": 1743453737259
+    },
+    {
+      "id": "acc3",
+      "power": "16.50",
+      "intensity": 500,
+      "emissions": "0.01",
+      "date": 1743453742278
+    },
+    {
+      "id": "1f97",
+      "power": "16.56",
+      "intensity": 500,
+      "emissions": "0.01",
+      "date": 1743453747223
+    },
+    {
+      "id": "617e",
+      "power": "15.18",
+      "intensity": 500,
+      "emissions": "0.01",
+      "date": 1743453752261
+    },
+    {
+      "id": "88de",
+      "power": "15.21",
+      "intensity": 500,
+      "emissions": "0.01",
+      "date": 1743453757278
+    },
+    {
+      "id": "7d3f",
+      "power": "15.32",
+      "intensity": 500,
+      "emissions": "0.01",
+      "date": 1743453762247
+    },
+    {
+      "id": "3db9",
+      "power": "15.30",
+      "intensity": 500,
+      "emissions": "0.01",
+      "date": 1743453767239
+    },
+    {
+      "id": "6463",
+      "power": "15.30",
+      "intensity": 500,
+      "emissions": "0.01",
+      "date": 1743453772246
+    },
+    {
+      "id": "85f6",
+      "power": "20.00",
+      "intensity": 500,
+      "emissions": "0.01",
+      "date": 1743453777441
+    },
+    {
+      "id": "3958",
+      "power": "24.36",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743453782354
+    },
+    {
+      "id": "3993",
+      "power": "21.54",
+      "intensity": 500,
+      "emissions": "0.01",
+      "date": 1743453787616
+    },
+    {
+      "id": "7bf9",
+      "power": "25.78",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743453792441
+    },
+    {
+      "id": "ca90",
+      "power": "26.96",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743453797676
+    },
+    {
+      "id": "81ed",
+      "power": "25.12",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743453802336
+    },
+    {
+      "id": "b65b",
+      "power": "27.40",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743453807937
+    },
+    {
+      "id": "841e",
+      "power": "31.16",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743453812459
+    },
+    {
+      "id": "6a1d",
+      "power": "30.21",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743453817598
+    },
+    {
+      "id": "1fa5",
+      "power": "41.71",
+      "intensity": 500,
+      "emissions": "0.03",
+      "date": 1743453823841
+    },
+    {
+      "id": "d1d4",
+      "power": "38.95",
+      "intensity": 500,
+      "emissions": "0.03",
+      "date": 1743453827687
+    },
+    {
+      "id": "a5ba",
+      "power": "29.60",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743453832650
+    },
+    {
+      "id": "b38d",
+      "power": "28.85",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743453837668
+    },
+    {
+      "id": "d588",
+      "power": "27.32",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743453842604
+    },
+    {
+      "id": "39be",
+      "power": "25.61",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743453847713
+    },
+    {
+      "id": "40d2",
+      "power": "26.80",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743453852608
+    },
+    {
+      "id": "f014",
+      "power": "24.42",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743453857662
+    },
+    {
+      "id": "a1c1",
+      "power": "26.31",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743453862534
+    },
+    {
+      "id": "a9b6",
+      "power": "27.94",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743453867615
+    },
+    {
+      "id": "b17b",
+      "power": "25.88",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743453872660
+    },
+    {
+      "id": "1bf1",
+      "power": "25.68",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743453877698
+    },
+    {
+      "id": "8c4a",
+      "power": "25.25",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743453882690
+    },
+    {
+      "id": "2a04",
+      "power": "23.68",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743453887704
+    },
+    {
+      "id": "9169",
+      "power": "26.38",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743453892478
+    },
+    {
+      "id": "f36e",
+      "power": "26.83",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743453897538
+    },
+    {
+      "id": "e824",
+      "power": "23.17",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743453902649
+    },
+    {
+      "id": "0e35",
+      "power": "20.23",
+      "intensity": 500,
+      "emissions": "0.01",
+      "date": 1743453907493
+    },
+    {
+      "id": "f39a",
+      "power": "20.36",
+      "intensity": 500,
+      "emissions": "0.01",
+      "date": 1743453912493
+    },
+    {
+      "id": "7ae5",
+      "power": "19.13",
+      "intensity": 500,
+      "emissions": "0.01",
+      "date": 1743453917484
+    },
+    {
+      "id": "4789",
+      "power": "20.35",
+      "intensity": 500,
+      "emissions": "0.01",
+      "date": 1743453922599
+    },
+    {
+      "id": "d907",
+      "power": "18.04",
+      "intensity": 500,
+      "emissions": "0.01",
+      "date": 1743453956537
+    },
+    {
+      "id": "5645",
+      "power": "16.47",
+      "intensity": 500,
+      "emissions": "0.01",
+      "date": 1743453968188
+    },
+    {
+      "id": "df8d",
+      "power": "30.24",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743453972554
+    },
+    {
+      "id": "3fe2",
+      "power": "20.90",
+      "intensity": 500,
+      "emissions": "0.01",
+      "date": 1743453977510
+    },
+    {
+      "id": "5851",
+      "power": "19.00",
+      "intensity": 500,
+      "emissions": "0.01",
+      "date": 1743453982591
+    },
+    {
+      "id": "78b4",
+      "power": "20.11",
+      "intensity": 500,
+      "emissions": "0.01",
+      "date": 1743453987472
+    },
+    {
+      "id": "3fcf",
+      "power": "23.42",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743453992994
+    },
+    {
+      "id": "4292",
+      "power": "32.15",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743453997790
+    },
+    {
+      "id": "aa59",
+      "power": "26.90",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743454002889
+    },
+    {
+      "id": "fc7c",
+      "power": "28.59",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743454007863
+    },
+    {
+      "id": "1b4d",
+      "power": "26.68",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743454012762
+    },
+    {
+      "id": "ed81",
+      "power": "25.60",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743454017901
+    },
+    {
+      "id": "47a9",
+      "power": "25.58",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743454022578
+    },
+    {
+      "id": "6f0e",
+      "power": "27.67",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743454027925
+    },
+    {
+      "id": "9cfa",
+      "power": "28.73",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743454032865
+    },
+    {
+      "id": "6f0b",
+      "power": "27.50",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743454037818
+    },
+    {
+      "id": "84e5",
+      "power": "27.38",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743454043267
+    },
+    {
+      "id": "093b",
+      "power": "29.66",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743454047849
+    },
+    {
+      "id": "53d1",
+      "power": "27.34",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743454053033
+    },
+    {
+      "id": "74ef",
+      "power": "20.54",
+      "intensity": 500,
+      "emissions": "0.01",
+      "date": 1743454076901
+    },
+    {
+      "id": "b3a8",
+      "power": "19.24",
+      "intensity": 500,
+      "emissions": "0.01",
+      "date": 1743454136941
+    },
+    {
+      "id": "3aaa",
+      "power": "20.56",
+      "intensity": 500,
+      "emissions": "0.01",
+      "date": 1743454197203
+    },
+    {
+      "id": "6b14",
+      "power": "20.42",
+      "intensity": 500,
+      "emissions": "0.01",
+      "date": 1743454256898
+    },
+    {
+      "id": "ef82",
+      "power": "20.09",
+      "intensity": 500,
+      "emissions": "0.01",
+      "date": 1743454316859
+    },
+    {
+      "id": "c487",
+      "power": "20.77",
+      "intensity": 500,
+      "emissions": "0.01",
+      "date": 1743454376871
+    },
+    {
+      "id": "7a8c",
+      "power": "19.74",
+      "intensity": 500,
+      "emissions": "0.01",
+      "date": 1743454436887
+    },
+    {
+      "id": "12c6",
+      "power": "20.69",
+      "intensity": 500,
+      "emissions": "0.01",
+      "date": 1743454496800
+    },
+    {
+      "id": "87c5",
+      "power": "20.46",
+      "intensity": 500,
+      "emissions": "0.01",
+      "date": 1743454556911
+    },
+    {
+      "id": "8db1",
+      "power": "20.57",
+      "intensity": 500,
+      "emissions": "0.01",
+      "date": 1743454616845
+    },
+    {
+      "id": "bb64",
+      "power": "19.74",
+      "intensity": 500,
+      "emissions": "0.01",
+      "date": 1743454676836
+    },
+    {
+      "id": "a51e",
+      "power": "20.88",
+      "intensity": 500,
+      "emissions": "0.01",
+      "date": 1743454736776
+    },
+    {
+      "id": "877a",
+      "power": "20.40",
+      "intensity": 500,
+      "emissions": "0.01",
+      "date": 1743454763973
+    },
+    {
+      "id": "9bc5",
+      "power": "52.84",
+      "intensity": 500,
+      "emissions": "0.04",
+      "date": 1743454764090
+    },
+    {
+      "id": "2eec",
+      "power": "38.65",
+      "intensity": 500,
+      "emissions": "0.03",
+      "date": 1743454767662
+    },
+    {
+      "id": "039c",
+      "power": "35.76",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743454772648
+    },
+    {
+      "id": "0746",
+      "power": "25.90",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743454777635
+    },
+    {
+      "id": "6050",
+      "power": "26.15",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743454782607
+    },
+    {
+      "id": "e2cc",
+      "power": "25.13",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743454787609
+    },
+    {
+      "id": "2e72",
+      "power": "26.19",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743454792635
+    },
+    {
+      "id": "1d21",
+      "power": "27.04",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743454797628
+    },
+    {
+      "id": "e807",
+      "power": "32.89",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743454802593
+    },
+    {
+      "id": "613f",
+      "power": "29.88",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743454807632
+    },
+    {
+      "id": "bbbc",
+      "power": "27.34",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743454812629
+    },
+    {
+      "id": "3933",
+      "power": "25.78",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743454817670
+    },
+    {
+      "id": "cf33",
+      "power": "26.09",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743454822629
+    },
+    {
+      "id": "9c12",
+      "power": "25.59",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743454827640
+    },
+    {
+      "id": "c719",
+      "power": "27.10",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743454832642
+    },
+    {
+      "id": "c2fc",
+      "power": "28.56",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743454837697
+    },
+    {
+      "id": "b9f9",
+      "power": "28.99",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743454842656
+    },
+    {
+      "id": "8595",
+      "power": "27.51",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743454847646
+    },
+    {
+      "id": "e14b",
+      "power": "27.87",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743454852656
+    },
+    {
+      "id": "b873",
+      "power": "29.97",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743454857633
+    },
+    {
+      "id": "b4a6",
+      "power": "28.40",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743454862677
+    },
+    {
+      "id": "a936",
+      "power": "31.80",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743454867715
+    },
+    {
+      "id": "a8a3",
+      "power": "28.56",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743454872674
+    },
+    {
+      "id": "4d46",
+      "power": "28.17",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743454877666
+    },
+    {
+      "id": "1c48",
+      "power": "27.45",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743454882617
+    },
+    {
+      "id": "195c",
+      "power": "29.03",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743454887688
+    },
+    {
+      "id": "c1fe",
+      "power": "28.81",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743454892669
+    },
+    {
+      "id": "389e",
+      "power": "27.45",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743454897619
+    },
+    {
+      "id": "1f2a",
+      "power": "27.89",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743454902711
+    },
+    {
+      "id": "6cff",
+      "power": "28.99",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743454907670
+    },
+    {
+      "id": "7052",
+      "power": "31.36",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743454912890
+    },
+    {
+      "id": "f95d",
+      "power": "30.93",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743454917805
+    },
+    {
+      "id": "1f3a",
+      "power": "30.25",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743454922635
+    },
+    {
+      "id": "aaf3",
+      "power": "28.60",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743454927578
+    },
+    {
+      "id": "74c3",
+      "power": "26.08",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743454932657
+    },
+    {
+      "id": "95b7",
+      "power": "28.61",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743454937685
+    },
+    {
+      "id": "124b",
+      "power": "27.35",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743454942679
+    },
+    {
+      "id": "f77d",
+      "power": "28.68",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743454947675
+    },
+    {
+      "id": "bdaa",
+      "power": "28.07",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743454952631
+    },
+    {
+      "id": "753f",
+      "power": "28.23",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743454957661
+    },
+    {
+      "id": "06e5",
+      "power": "26.52",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743454962696
+    },
+    {
+      "id": "17cb",
+      "power": "26.93",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743454967699
+    },
+    {
+      "id": "70ff",
+      "power": "29.64",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743454972687
+    },
+    {
+      "id": "2871",
+      "power": "25.77",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743454977706
+    },
+    {
+      "id": "5d78",
+      "power": "28.08",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743454982812
+    },
+    {
+      "id": "7eff",
+      "power": "30.01",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743454987707
+    },
+    {
+      "id": "4cce",
+      "power": "29.33",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743454992744
+    },
+    {
+      "id": "bb01",
+      "power": "28.54",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743454997729
+    },
+    {
+      "id": "c8fb",
+      "power": "27.19",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743455002678
+    },
+    {
+      "id": "805f",
+      "power": "26.80",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743455007726
+    },
+    {
+      "id": "84d6",
+      "power": "27.26",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743455012671
+    },
+    {
+      "id": "976b",
+      "power": "27.51",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743455017637
+    },
+    {
+      "id": "6821",
+      "power": "26.19",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743455022723
+    },
+    {
+      "id": "0036",
+      "power": "26.46",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743455027624
+    },
+    {
+      "id": "a65f",
+      "power": "27.53",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743455032766
+    },
+    {
+      "id": "7bc7",
+      "power": "28.52",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743455037683
+    },
+    {
+      "id": "af81",
+      "power": "26.91",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743455042647
+    },
+    {
+      "id": "e6c2",
+      "power": "28.69",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743455047732
+    },
+    {
+      "id": "95d0",
+      "power": "30.18",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743455052741
+    },
+    {
+      "id": "27ef",
+      "power": "27.96",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743455057669
+    },
+    {
+      "id": "8d13",
+      "power": "28.04",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743455062602
+    },
+    {
+      "id": "f7d4",
+      "power": "24.45",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743455067986
+    },
+    {
+      "id": "b53a",
+      "power": "34.43",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743455072691
+    },
+    {
+      "id": "f12a",
+      "power": "26.32",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743455077716
+    },
+    {
+      "id": "9365",
+      "power": "26.71",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743455082763
+    },
+    {
+      "id": "a33c",
+      "power": "28.96",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743455088118
+    },
+    {
+      "id": "71f4",
+      "power": "29.29",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743455092637
+    },
+    {
+      "id": "3d03",
+      "power": "32.84",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743455097694
+    },
+    {
+      "id": "26de",
+      "power": "26.37",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743455103143
+    },
+    {
+      "id": "e2b2",
+      "power": "34.92",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743455108041
+    },
+    {
+      "id": "e9a9",
+      "power": "35.38",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743455112709
+    },
+    {
+      "id": "c806",
+      "power": "27.82",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743455117726
+    },
+    {
+      "id": "c65e",
+      "power": "27.04",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743455122725
+    },
+    {
+      "id": "08bd",
+      "power": "26.76",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743455127749
+    },
+    {
+      "id": "2fe7",
+      "power": "28.93",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743455132816
+    },
+    {
+      "id": "fb41",
+      "power": "29.36",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743455137747
+    },
+    {
+      "id": "478e",
+      "power": "28.18",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743455142711
+    },
+    {
+      "id": "3155",
+      "power": "26.16",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743455147758
+    },
+    {
+      "id": "1ea2",
+      "power": "29.40",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743455152848
+    },
+    {
+      "id": "7a51",
+      "power": "30.28",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743455157746
+    },
+    {
+      "id": "7812",
+      "power": "29.58",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743455162680
+    },
+    {
+      "id": "44d8",
+      "power": "31.91",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743455167784
+    },
+    {
+      "id": "b42d",
+      "power": "26.73",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743455172723
+    },
+    {
+      "id": "7841",
+      "power": "24.78",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743455177662
+    },
+    {
+      "id": "5a4a",
+      "power": "26.94",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743455182712
+    },
+    {
+      "id": "7e27",
+      "power": "27.01",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743455187676
+    },
+    {
+      "id": "b624",
+      "power": "26.31",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743455192689
+    },
+    {
+      "id": "196a",
+      "power": "27.78",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743455197732
+    },
+    {
+      "id": "1b6a",
+      "power": "29.01",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743455202654
+    },
+    {
+      "id": "5dd6",
+      "power": "26.86",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743455207745
+    },
+    {
+      "id": "22bf",
+      "power": "27.01",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743455212791
+    },
+    {
+      "id": "4221",
+      "power": "28.95",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743455217740
+    },
+    {
+      "id": "14a2",
+      "power": "29.84",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743455222701
+    },
+    {
+      "id": "2fed",
+      "power": "28.82",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743455227783
+    },
+    {
+      "id": "432a",
+      "power": "29.49",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743455232773
+    },
+    {
+      "id": "a144",
+      "power": "31.75",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743455237720
+    },
+    {
+      "id": "a551",
+      "power": "30.03",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743455242862
+    },
+    {
+      "id": "652f",
+      "power": "31.78",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743455247827
+    },
+    {
+      "id": "44d4",
+      "power": "31.24",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743455252862
+    },
+    {
+      "id": "fd5c",
+      "power": "30.76",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743455257905
+    },
+    {
+      "id": "12ac",
+      "power": "30.30",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743455262779
+    },
+    {
+      "id": "efab",
+      "power": "29.62",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743455267842
+    },
+    {
+      "id": "8bf6",
+      "power": "29.22",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743455272919
+    },
+    {
+      "id": "1a65",
+      "power": "29.75",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743455277594
+    },
+    {
+      "id": "4a4a",
+      "power": "28.00",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743455282658
+    },
+    {
+      "id": "99bd",
+      "power": "29.31",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743455287722
+    },
+    {
+      "id": "bb04",
+      "power": "29.06",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743455292685
+    },
+    {
+      "id": "6dd3",
+      "power": "26.66",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743455297630
+    },
+    {
+      "id": "7609",
+      "power": "26.25",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743455302738
+    },
+    {
+      "id": "5aa2",
+      "power": "28.09",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743455307713
+    },
+    {
+      "id": "870f",
+      "power": "28.46",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743455312701
+    },
+    {
+      "id": "54fe",
+      "power": "26.74",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743455317703
+    },
+    {
+      "id": "6044",
+      "power": "27.65",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743455322655
+    },
+    {
+      "id": "c15d",
+      "power": "26.18",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743455327712
+    },
+    {
+      "id": "87ed",
+      "power": "25.96",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743455332764
+    },
+    {
+      "id": "1efc",
+      "power": "28.35",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743455337640
+    },
+    {
+      "id": "2b29",
+      "power": "27.84",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743455342625
+    },
+    {
+      "id": "292a",
+      "power": "26.71",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743455347752
+    },
+    {
+      "id": "1281",
+      "power": "27.40",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743455352713
+    },
+    {
+      "id": "2917",
+      "power": "28.06",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743455357678
+    },
+    {
+      "id": "825c",
+      "power": "27.68",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743455362721
+    },
+    {
+      "id": "c3a8",
+      "power": "28.44",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743455367707
+    },
+    {
+      "id": "1600",
+      "power": "28.37",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743455372718
+    },
+    {
+      "id": "be37",
+      "power": "29.30",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743455377759
+    },
+    {
+      "id": "de7c",
+      "power": "29.94",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743455382699
+    },
+    {
+      "id": "d076",
+      "power": "28.95",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743455387737
+    },
+    {
+      "id": "f1a1",
+      "power": "33.85",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743455392893
+    },
+    {
+      "id": "ddb9",
+      "power": "32.58",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743455397862
+    },
+    {
+      "id": "0469",
+      "power": "31.61",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743455402947
+    },
+    {
+      "id": "884f",
+      "power": "33.81",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743455407851
+    },
+    {
+      "id": "1c73",
+      "power": "33.69",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743455412779
+    },
+    {
+      "id": "0f86",
+      "power": "29.07",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743455417757
+    },
+    {
+      "id": "f879",
+      "power": "28.71",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743455422766
+    },
+    {
+      "id": "adaa",
+      "power": "28.82",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743455427655
+    },
+    {
+      "id": "ba53",
+      "power": "26.63",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743455432744
+    },
+    {
+      "id": "4084",
+      "power": "26.66",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743455437741
+    },
+    {
+      "id": "dd29",
+      "power": "28.93",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743455442732
+    },
+    {
+      "id": "a495",
+      "power": "30.05",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743455447707
+    },
+    {
+      "id": "b728",
+      "power": "30.30",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743455452838
+    },
+    {
+      "id": "cf7c",
+      "power": "29.95",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743455457669
+    },
+    {
+      "id": "b0f6",
+      "power": "30.34",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743455462750
+    },
+    {
+      "id": "4704",
+      "power": "33.08",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743455468047
+    },
+    {
+      "id": "2c16",
+      "power": "33.11",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743455472776
+    },
+    {
+      "id": "c294",
+      "power": "29.10",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743455477816
+    },
+    {
+      "id": "3ef2",
+      "power": "29.99",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743455482770
+    },
+    {
+      "id": "11ee",
+      "power": "28.62",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743455487726
+    },
+    {
+      "id": "e892",
+      "power": "29.85",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743455492698
+    },
+    {
+      "id": "f4cd",
+      "power": "27.95",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743455497812
+    },
+    {
+      "id": "fa6b",
+      "power": "31.75",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743455502917
+    },
+    {
+      "id": "5ffe",
+      "power": "30.39",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743455507779
+    },
+    {
+      "id": "f237",
+      "power": "28.17",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743455512840
+    },
+    {
+      "id": "a70d",
+      "power": "28.58",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743455517665
+    },
+    {
+      "id": "5463",
+      "power": "28.62",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743455522684
+    },
+    {
+      "id": "7870",
+      "power": "28.56",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743455527778
+    },
+    {
+      "id": "cc19",
+      "power": "30.93",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743455532805
+    },
+    {
+      "id": "3023",
+      "power": "28.74",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743455537761
+    },
+    {
+      "id": "8459",
+      "power": "30.26",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743455542827
+    },
+    {
+      "id": "1070",
+      "power": "30.06",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743455547776
+    },
+    {
+      "id": "61e2",
+      "power": "28.23",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743455552763
+    },
+    {
+      "id": "10ca",
+      "power": "31.36",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743455557871
+    },
+    {
+      "id": "1949",
+      "power": "28.65",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743455562688
+    },
+    {
+      "id": "a9a6",
+      "power": "26.86",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743455567647
+    },
+    {
+      "id": "539c",
+      "power": "26.81",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743455572657
+    },
+    {
+      "id": "8afc",
+      "power": "26.24",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743455577723
+    },
+    {
+      "id": "883e",
+      "power": "26.19",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743455582737
+    },
+    {
+      "id": "ffbd",
+      "power": "27.73",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743455587742
+    },
+    {
+      "id": "84fd",
+      "power": "29.09",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743455592665
+    },
+    {
+      "id": "1136",
+      "power": "27.39",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743455597682
+    },
+    {
+      "id": "bb88",
+      "power": "28.07",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743455602709
+    },
+    {
+      "id": "1ced",
+      "power": "27.25",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743455607684
+    },
+    {
+      "id": "eeab",
+      "power": "28.36",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743455612705
+    },
+    {
+      "id": "6367",
+      "power": "28.75",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743455617684
+    },
+    {
+      "id": "9c4e",
+      "power": "30.08",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743455622664
+    },
+    {
+      "id": "5ecd",
+      "power": "27.52",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743455627716
+    },
+    {
+      "id": "a0a2",
+      "power": "28.67",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743455632670
+    },
+    {
+      "id": "e339",
+      "power": "27.43",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743455637711
+    },
+    {
+      "id": "3b32",
+      "power": "29.05",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743455642743
+    },
+    {
+      "id": "8c9c",
+      "power": "26.98",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743455647669
+    },
+    {
+      "id": "da9c",
+      "power": "28.86",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743455652696
+    },
+    {
+      "id": "6e0b",
+      "power": "26.71",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743455657671
+    },
+    {
+      "id": "ddb0",
+      "power": "27.55",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743455662680
+    },
+    {
+      "id": "3775",
+      "power": "28.99",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743455667713
+    },
+    {
+      "id": "9731",
+      "power": "27.83",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743455672674
+    },
+    {
+      "id": "9802",
+      "power": "27.55",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743455677719
+    },
+    {
+      "id": "e239",
+      "power": "30.34",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743455682721
+    },
+    {
+      "id": "9692",
+      "power": "29.96",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743455687802
+    },
+    {
+      "id": "2e11",
+      "power": "28.91",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743455692756
+    },
+    {
+      "id": "0e39",
+      "power": "29.85",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743455697690
+    },
+    {
+      "id": "a9a4",
+      "power": "29.88",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743455702835
+    },
+    {
+      "id": "0737",
+      "power": "33.10",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743455707973
+    },
+    {
+      "id": "9326",
+      "power": "33.52",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743455712716
+    },
+    {
+      "id": "64b2",
+      "power": "28.55",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743455717680
+    },
+    {
+      "id": "5ef2",
+      "power": "28.59",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743455722781
+    },
+    {
+      "id": "1f63",
+      "power": "28.76",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743455727736
+    },
+    {
+      "id": "c7e8",
+      "power": "27.14",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743455732742
+    },
+    {
+      "id": "c5f2",
+      "power": "27.03",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743455737691
+    },
+    {
+      "id": "ad57",
+      "power": "27.43",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743455742754
+    },
+    {
+      "id": "74bf",
+      "power": "27.36",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743455747731
+    },
+    {
+      "id": "dfb6",
+      "power": "28.73",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743455752689
+    },
+    {
+      "id": "914d",
+      "power": "27.30",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743455757738
+    },
+    {
+      "id": "87ae",
+      "power": "28.07",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743455762778
+    },
+    {
+      "id": "d201",
+      "power": "27.91",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743455767684
+    },
+    {
+      "id": "7d74",
+      "power": "28.72",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743455772687
+    },
+    {
+      "id": "de9d",
+      "power": "27.86",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743455777649
+    },
+    {
+      "id": "b070",
+      "power": "27.64",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743455782804
+    },
+    {
+      "id": "bfef",
+      "power": "27.64",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743455787625
+    },
+    {
+      "id": "ea58",
+      "power": "27.75",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743455792666
+    },
+    {
+      "id": "6328",
+      "power": "26.79",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743455797646
+    },
+    {
+      "id": "2ec4",
+      "power": "26.47",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743455802623
+    },
+    {
+      "id": "954b",
+      "power": "28.35",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743455807721
+    },
+    {
+      "id": "5682",
+      "power": "27.47",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743455812676
+    },
+    {
+      "id": "0ac8",
+      "power": "28.12",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743455817689
+    },
+    {
+      "id": "5f8f",
+      "power": "29.36",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743455822710
+    },
+    {
+      "id": "d193",
+      "power": "29.57",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743455827845
+    },
+    {
+      "id": "8232",
+      "power": "30.01",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743455832686
+    },
+    {
+      "id": "3c20",
+      "power": "29.87",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743455837716
+    },
+    {
+      "id": "6113",
+      "power": "30.16",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743455842673
+    },
+    {
+      "id": "df92",
+      "power": "31.51",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743455847762
+    },
+    {
+      "id": "087e",
+      "power": "30.48",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743455852815
+    },
+    {
+      "id": "e3ba",
+      "power": "30.13",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743455857832
+    },
+    {
+      "id": "c5e6",
+      "power": "31.20",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743455862720
+    },
+    {
+      "id": "57ec",
+      "power": "28.27",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743455867567
+    },
+    {
+      "id": "3ed3",
+      "power": "27.83",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743455872545
+    },
+    {
+      "id": "fb69",
+      "power": "27.15",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743455877635
+    },
+    {
+      "id": "c814",
+      "power": "31.81",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743455882967
+    },
+    {
+      "id": "d389",
+      "power": "33.86",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743455888009
+    },
+    {
+      "id": "8649",
+      "power": "36.17",
+      "intensity": 500,
+      "emissions": "0.03",
+      "date": 1743455893010
+    },
+    {
+      "id": "1b17",
+      "power": "33.97",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743455897798
+    },
+    {
+      "id": "7372",
+      "power": "28.79",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743455902625
+    },
+    {
+      "id": "39c5",
+      "power": "26.85",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743455907633
+    },
+    {
+      "id": "154e",
+      "power": "25.24",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743455912701
+    },
+    {
+      "id": "6f7a",
+      "power": "25.48",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743455917634
+    },
+    {
+      "id": "6ed6",
+      "power": "27.46",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743455922566
+    },
+    {
+      "id": "a772",
+      "power": "27.80",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743455927713
+    },
+    {
+      "id": "4d3b",
+      "power": "29.56",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743455932671
+    },
+    {
+      "id": "8df0",
+      "power": "29.66",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743455937725
+    },
+    {
+      "id": "12b9",
+      "power": "28.54",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743455942699
+    },
+    {
+      "id": "ac6a",
+      "power": "29.37",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743455947692
+    },
+    {
+      "id": "ba58",
+      "power": "29.60",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743455952670
+    },
+    {
+      "id": "95ff",
+      "power": "29.79",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743455957760
+    },
+    {
+      "id": "897e",
+      "power": "27.70",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743455962626
+    },
+    {
+      "id": "00e8",
+      "power": "29.77",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743455967645
+    },
+    {
+      "id": "210c",
+      "power": "27.61",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743455972668
+    },
+    {
+      "id": "8a05",
+      "power": "29.15",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743455977645
+    },
+    {
+      "id": "25e1",
+      "power": "28.48",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743455982653
+    },
+    {
+      "id": "6388",
+      "power": "29.10",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743455987683
+    },
+    {
+      "id": "0698",
+      "power": "30.15",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743455992760
+    },
+    {
+      "id": "9cb0",
+      "power": "29.36",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743455997726
+    },
+    {
+      "id": "5b99",
+      "power": "29.89",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743456002915
+    },
+    {
+      "id": "b970",
+      "power": "36.03",
+      "intensity": 500,
+      "emissions": "0.03",
+      "date": 1743456007867
+    },
+    {
+      "id": "20e8",
+      "power": "36.30",
+      "intensity": 500,
+      "emissions": "0.03",
+      "date": 1743456012728
+    },
+    {
+      "id": "75c8",
+      "power": "29.95",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743456017741
+    },
+    {
+      "id": "7385",
+      "power": "27.26",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743456022525
+    },
+    {
+      "id": "df26",
+      "power": "28.26",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743456027628
+    },
+    {
+      "id": "2fa0",
+      "power": "28.23",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743456032519
+    },
+    {
+      "id": "44e9",
+      "power": "21.05",
+      "intensity": 500,
+      "emissions": "0.01",
+      "date": 1743456037412
+    },
+    {
+      "id": "ca81",
+      "power": "20.29",
+      "intensity": 500,
+      "emissions": "0.01",
+      "date": 1743456042521
+    },
+    {
+      "id": "bcf3",
+      "power": "20.24",
+      "intensity": 500,
+      "emissions": "0.01",
+      "date": 1743456047486
+    },
+    {
+      "id": "f118",
+      "power": "20.95",
+      "intensity": 500,
+      "emissions": "0.01",
+      "date": 1743456052530
+    },
+    {
+      "id": "2fae",
+      "power": "22.10",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743456057525
+    },
+    {
+      "id": "c520",
+      "power": "21.92",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743456062555
+    },
+    {
+      "id": "14f0",
+      "power": "22.32",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743456067489
+    },
+    {
+      "id": "3d4f",
+      "power": "21.13",
+      "intensity": 500,
+      "emissions": "0.01",
+      "date": 1743456072519
+    },
+    {
+      "id": "acfb",
+      "power": "21.05",
+      "intensity": 500,
+      "emissions": "0.01",
+      "date": 1743456077509
+    },
+    {
+      "id": "f6e6",
+      "power": "19.93",
+      "intensity": 500,
+      "emissions": "0.01",
+      "date": 1743456082537
+    },
+    {
+      "id": "b5ad",
+      "power": "21.26",
+      "intensity": 500,
+      "emissions": "0.01",
+      "date": 1743456087516
+    },
+    {
+      "id": "3a07",
+      "power": "20.95",
+      "intensity": 500,
+      "emissions": "0.01",
+      "date": 1743456092529
+    },
+    {
+      "id": "0c81",
+      "power": "21.96",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743456097481
+    },
+    {
+      "id": "b911",
+      "power": "23.13",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743456102525
+    },
+    {
+      "id": "6571",
+      "power": "20.17",
+      "intensity": 500,
+      "emissions": "0.01",
+      "date": 1743456107528
+    },
+    {
+      "id": "a8c2",
+      "power": "20.95",
+      "intensity": 500,
+      "emissions": "0.01",
+      "date": 1743456112481
+    },
+    {
+      "id": "16e6",
+      "power": "21.30",
+      "intensity": 500,
+      "emissions": "0.01",
+      "date": 1743456117503
+    },
+    {
+      "id": "c666",
+      "power": "20.92",
+      "intensity": 500,
+      "emissions": "0.01",
+      "date": 1743456122552
+    },
+    {
+      "id": "4a66",
+      "power": "21.36",
+      "intensity": 500,
+      "emissions": "0.01",
+      "date": 1743456127566
+    },
+    {
+      "id": "23d7",
+      "power": "21.54",
+      "intensity": 500,
+      "emissions": "0.01",
+      "date": 1743456132482
+    },
+    {
+      "id": "9442",
+      "power": "20.24",
+      "intensity": 500,
+      "emissions": "0.01",
+      "date": 1743456137608
+    },
+    {
+      "id": "0ac4",
+      "power": "21.60",
+      "intensity": 500,
+      "emissions": "0.01",
+      "date": 1743456142498
+    },
+    {
+      "id": "2d09",
+      "power": "23.22",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743456147633
+    },
+    {
+      "id": "cb9c",
+      "power": "23.08",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743456152552
+    },
+    {
+      "id": "4fb9",
+      "power": "20.75",
+      "intensity": 500,
+      "emissions": "0.01",
+      "date": 1743456157583
+    },
+    {
+      "id": "9061",
+      "power": "22.19",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743456162519
+    },
+    {
+      "id": "dae6",
+      "power": "21.26",
+      "intensity": 500,
+      "emissions": "0.01",
+      "date": 1743456167518
+    },
+    {
+      "id": "01e1",
+      "power": "21.16",
+      "intensity": 500,
+      "emissions": "0.01",
+      "date": 1743456172559
+    },
+    {
+      "id": "2380",
+      "power": "21.58",
+      "intensity": 500,
+      "emissions": "0.01",
+      "date": 1743456177585
+    },
+    {
+      "id": "2a5f",
+      "power": "22.06",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743456182504
+    },
+    {
+      "id": "ce64",
+      "power": "20.59",
+      "intensity": 500,
+      "emissions": "0.01",
+      "date": 1743456187551
+    },
+    {
+      "id": "680b",
+      "power": "21.49",
+      "intensity": 500,
+      "emissions": "0.01",
+      "date": 1743456192541
+    },
+    {
+      "id": "107e",
+      "power": "21.40",
+      "intensity": 500,
+      "emissions": "0.01",
+      "date": 1743456197511
+    },
+    {
+      "id": "2f1f",
+      "power": "21.87",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743456202528
+    },
+    {
+      "id": "362a",
+      "power": "22.64",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743456207513
+    },
+    {
+      "id": "36a1",
+      "power": "20.65",
+      "intensity": 500,
+      "emissions": "0.01",
+      "date": 1743456212594
+    },
+    {
+      "id": "74bf",
+      "power": "22.89",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743456217531
+    },
+    {
+      "id": "c79c",
+      "power": "22.11",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743456222579
+    },
+    {
+      "id": "030c",
+      "power": "21.52",
+      "intensity": 500,
+      "emissions": "0.01",
+      "date": 1743456227518
+    },
+    {
+      "id": "43fd",
+      "power": "21.06",
+      "intensity": 500,
+      "emissions": "0.01",
+      "date": 1743456232568
+    },
+    {
+      "id": "2a66",
+      "power": "22.72",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743456237623
+    },
+    {
+      "id": "4e86",
+      "power": "21.00",
+      "intensity": 500,
+      "emissions": "0.01",
+      "date": 1743456242555
+    },
+    {
+      "id": "9b66",
+      "power": "21.35",
+      "intensity": 500,
+      "emissions": "0.01",
+      "date": 1743456247539
+    },
+    {
+      "id": "6357",
+      "power": "23.51",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743456252507
+    },
+    {
+      "id": "cb17",
+      "power": "24.22",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743456257525
+    },
+    {
+      "id": "84cd",
+      "power": "24.69",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743456262685
+    },
+    {
+      "id": "0ec8",
+      "power": "24.68",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743456267527
+    },
+    {
+      "id": "5736",
+      "power": "23.63",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743456272514
+    },
+    {
+      "id": "356f",
+      "power": "22.13",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743456277536
+    },
+    {
+      "id": "eff0",
+      "power": "22.44",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743456282507
+    },
+    {
+      "id": "efcb",
+      "power": "21.41",
+      "intensity": 500,
+      "emissions": "0.01",
+      "date": 1743456287579
+    },
+    {
+      "id": "6ba9",
+      "power": "23.20",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743456292548
+    },
+    {
+      "id": "fab2",
+      "power": "22.25",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743456297539
+    },
+    {
+      "id": "01ff",
+      "power": "20.74",
+      "intensity": 500,
+      "emissions": "0.01",
+      "date": 1743456302516
+    },
+    {
+      "id": "0533",
+      "power": "21.60",
+      "intensity": 500,
+      "emissions": "0.01",
+      "date": 1743456307504
+    },
+    {
+      "id": "0415",
+      "power": "26.02",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743456312578
+    },
+    {
+      "id": "db3b",
+      "power": "22.29",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743456317509
+    },
+    {
+      "id": "e09b",
+      "power": "22.50",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743456322508
+    },
+    {
+      "id": "7464",
+      "power": "22.31",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743456327549
+    },
+    {
+      "id": "dfd5",
+      "power": "21.29",
+      "intensity": 500,
+      "emissions": "0.01",
+      "date": 1743456332554
+    },
+    {
+      "id": "bd6b",
+      "power": "21.99",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743456337503
+    },
+    {
+      "id": "0e4e",
+      "power": "21.24",
+      "intensity": 500,
+      "emissions": "0.01",
+      "date": 1743456342496
+    },
+    {
+      "id": "3203",
+      "power": "20.83",
+      "intensity": 500,
+      "emissions": "0.01",
+      "date": 1743456347464
+    },
+    {
+      "id": "1a87",
+      "power": "20.58",
+      "intensity": 500,
+      "emissions": "0.01",
+      "date": 1743456352475
+    },
+    {
+      "id": "0339",
+      "power": "22.41",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743456357410
+    },
+    {
+      "id": "43df",
+      "power": "20.26",
+      "intensity": 500,
+      "emissions": "0.01",
+      "date": 1743456362599
+    },
+    {
+      "id": "1cb9",
+      "power": "27.26",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743456367658
+    },
+    {
+      "id": "c43a",
+      "power": "27.43",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743456372633
+    },
+    {
+      "id": "a97c",
+      "power": "25.93",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743456377703
+    },
+    {
+      "id": "a45e",
+      "power": "28.51",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743456382650
+    },
+    {
+      "id": "008c",
+      "power": "26.88",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743456387583
+    },
+    {
+      "id": "deb5",
+      "power": "25.03",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743456392633
+    },
+    {
+      "id": "eb1c",
+      "power": "24.34",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743456397575
+    },
+    {
+      "id": "5f0a",
+      "power": "24.11",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743456402602
+    },
+    {
+      "id": "83bb",
+      "power": "27.54",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743456407601
+    },
+    {
+      "id": "1b6c",
+      "power": "27.23",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743456412569
+    },
+    {
+      "id": "8034",
+      "power": "27.62",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743456417564
+    },
+    {
+      "id": "2061",
+      "power": "27.86",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743456422656
+    },
+    {
+      "id": "8c5a",
+      "power": "26.15",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743456427613
+    },
+    {
+      "id": "68e5",
+      "power": "24.48",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743456432575
+    },
+    {
+      "id": "0d1d",
+      "power": "24.16",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743456437539
+    },
+    {
+      "id": "c8ba",
+      "power": "29.86",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743456442755
+    },
+    {
+      "id": "5e6d",
+      "power": "29.54",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743456447666
+    },
+    {
+      "id": "9c88",
+      "power": "30.04",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743456452689
+    },
+    {
+      "id": "2126",
+      "power": "26.84",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743456457676
+    },
+    {
+      "id": "52eb",
+      "power": "26.44",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743456462729
+    },
+    {
+      "id": "54b3",
+      "power": "26.67",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743456467749
+    },
+    {
+      "id": "d169",
+      "power": "26.44",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743456472757
+    },
+    {
+      "id": "a752",
+      "power": "28.67",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743456477754
+    },
+    {
+      "id": "b4fb",
+      "power": "28.02",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743456482825
+    },
+    {
+      "id": "4f34",
+      "power": "28.47",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743456487949
+    },
+    {
+      "id": "c99d",
+      "power": "30.69",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743456492782
+    },
+    {
+      "id": "250c",
+      "power": "30.83",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743456497850
+    },
+    {
+      "id": "1ade",
+      "power": "28.10",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743456502744
+    },
+    {
+      "id": "cfcb",
+      "power": "28.54",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743456507677
+    },
+    {
+      "id": "041b",
+      "power": "27.12",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743456512699
+    },
+    {
+      "id": "523e",
+      "power": "29.41",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743456517662
+    },
+    {
+      "id": "1c7e",
+      "power": "26.45",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743456522696
+    },
+    {
+      "id": "5f73",
+      "power": "26.11",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743456527696
+    },
+    {
+      "id": "1ad6",
+      "power": "26.90",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743456532692
+    },
+    {
+      "id": "2327",
+      "power": "27.22",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743456537726
+    },
+    {
+      "id": "ff23",
+      "power": "28.56",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743456542673
+    },
+    {
+      "id": "1792",
+      "power": "27.23",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743456547708
+    },
+    {
+      "id": "c40f",
+      "power": "28.66",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743456552666
+    },
+    {
+      "id": "e1c3",
+      "power": "27.80",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743456557701
+    },
+    {
+      "id": "3820",
+      "power": "26.38",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743456562690
+    },
+    {
+      "id": "df4f",
+      "power": "28.13",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743456567674
+    },
+    {
+      "id": "437b",
+      "power": "28.16",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743456572688
+    },
+    {
+      "id": "3496",
+      "power": "27.78",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743456577662
+    },
+    {
+      "id": "d35e",
+      "power": "28.30",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743456582685
+    },
+    {
+      "id": "5193",
+      "power": "28.04",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743456587671
+    },
+    {
+      "id": "43c8",
+      "power": "27.91",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743456592710
+    },
+    {
+      "id": "eb91",
+      "power": "29.43",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743456597679
+    },
+    {
+      "id": "44d5",
+      "power": "26.92",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743456602691
+    },
+    {
+      "id": "cca6",
+      "power": "28.14",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743456607644
+    },
+    {
+      "id": "96ac",
+      "power": "30.07",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743456612707
+    },
+    {
+      "id": "3362",
+      "power": "30.35",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743456617731
+    },
+    {
+      "id": "2c91",
+      "power": "29.07",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743456622720
+    },
+    {
+      "id": "34bd",
+      "power": "28.36",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743456627679
+    },
+    {
+      "id": "6d6e",
+      "power": "28.54",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743456632682
+    },
+    {
+      "id": "bd53",
+      "power": "27.41",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743456637684
+    },
+    {
+      "id": "6c9f",
+      "power": "28.21",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743456642738
+    },
+    {
+      "id": "3274",
+      "power": "28.35",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743456647661
+    },
+    {
+      "id": "5394",
+      "power": "27.58",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743456652662
+    },
+    {
+      "id": "2d70",
+      "power": "29.47",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743456657699
+    },
+    {
+      "id": "909d",
+      "power": "29.24",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743456662702
+    },
+    {
+      "id": "0d5e",
+      "power": "30.87",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743456667868
+    },
+    {
+      "id": "1329",
+      "power": "29.04",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743456672730
+    },
+    {
+      "id": "9f03",
+      "power": "29.12",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743456677670
+    },
+    {
+      "id": "03d2",
+      "power": "27.63",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743456682682
+    },
+    {
+      "id": "627c",
+      "power": "29.62",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743456687720
+    },
+    {
+      "id": "52b6",
+      "power": "28.09",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743456692797
+    },
+    {
+      "id": "0549",
+      "power": "29.85",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743456697722
+    },
+    {
+      "id": "c7fe",
+      "power": "29.41",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743456702694
+    },
+    {
+      "id": "887a",
+      "power": "28.77",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743456707646
+    },
+    {
+      "id": "651e",
+      "power": "28.26",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743456712738
+    },
+    {
+      "id": "d353",
+      "power": "29.06",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743456717776
+    },
+    {
+      "id": "386a",
+      "power": "29.44",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743456722804
+    },
+    {
+      "id": "79bc",
+      "power": "28.28",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743456727665
+    },
+    {
+      "id": "52d5",
+      "power": "27.06",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743456732752
+    },
+    {
+      "id": "2938",
+      "power": "27.86",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743456737711
+    },
+    {
+      "id": "eceb",
+      "power": "27.93",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743456742691
+    },
+    {
+      "id": "83ab",
+      "power": "27.71",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743456747790
+    },
+    {
+      "id": "0b32",
+      "power": "28.60",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743456752710
+    },
+    {
+      "id": "0c8c",
+      "power": "27.44",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743456757681
+    },
+    {
+      "id": "c215",
+      "power": "27.09",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743456762639
+    },
+    {
+      "id": "1e4a",
+      "power": "26.85",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743456767701
+    },
+    {
+      "id": "a0d1",
+      "power": "28.24",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743456772664
+    },
+    {
+      "id": "a052",
+      "power": "27.00",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743456777628
+    },
+    {
+      "id": "7649",
+      "power": "26.67",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743456782640
+    },
+    {
+      "id": "f944",
+      "power": "28.59",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743456787711
+    },
+    {
+      "id": "a8cb",
+      "power": "28.24",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743456792676
+    },
+    {
+      "id": "66e6",
+      "power": "28.72",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743456797699
+    },
+    {
+      "id": "8df2",
+      "power": "29.01",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743456802707
+    },
+    {
+      "id": "b27f",
+      "power": "27.87",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743456807742
+    },
+    {
+      "id": "f3cd",
+      "power": "26.49",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743456812668
+    },
+    {
+      "id": "9d52",
+      "power": "26.33",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743456817691
+    },
+    {
+      "id": "6726",
+      "power": "27.15",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743456822708
+    },
+    {
+      "id": "5a5c",
+      "power": "27.98",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743456827666
+    },
+    {
+      "id": "ad96",
+      "power": "27.36",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743456832687
+    },
+    {
+      "id": "110d",
+      "power": "27.87",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743456837698
+    },
+    {
+      "id": "7b9d",
+      "power": "28.17",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743456842729
+    },
+    {
+      "id": "9c1c",
+      "power": "26.70",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743456847668
+    },
+    {
+      "id": "37b7",
+      "power": "29.25",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743456852659
+    },
+    {
+      "id": "e3f0",
+      "power": "29.61",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743456857700
+    },
+    {
+      "id": "ef1d",
+      "power": "28.60",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743456862630
+    },
+    {
+      "id": "a552",
+      "power": "28.40",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743456867660
+    },
+    {
+      "id": "b2a3",
+      "power": "27.56",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743456872656
+    },
+    {
+      "id": "a444",
+      "power": "27.22",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743456877549
+    },
+    {
+      "id": "f3ab",
+      "power": "27.62",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743456882642
+    },
+    {
+      "id": "005a",
+      "power": "27.29",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743456887622
+    },
+    {
+      "id": "4439",
+      "power": "28.30",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743456892688
+    },
+    {
+      "id": "22d6",
+      "power": "29.22",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743456897694
+    },
+    {
+      "id": "26a9",
+      "power": "29.50",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743456902684
+    },
+    {
+      "id": "c572",
+      "power": "27.70",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743456907712
+    },
+    {
+      "id": "38cb",
+      "power": "29.90",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743456912685
+    },
+    {
+      "id": "89df",
+      "power": "31.54",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743456917678
+    },
+    {
+      "id": "f4c4",
+      "power": "27.77",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743456922705
+    },
+    {
+      "id": "69e8",
+      "power": "28.22",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743456927666
+    },
+    {
+      "id": "95d1",
+      "power": "28.22",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743456932655
+    },
+    {
+      "id": "7e96",
+      "power": "27.33",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743456937565
+    },
+    {
+      "id": "6227",
+      "power": "26.93",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743456942608
+    },
+    {
+      "id": "47a9",
+      "power": "27.97",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743456947642
+    },
+    {
+      "id": "1588",
+      "power": "27.55",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743456952688
+    },
+    {
+      "id": "ed43",
+      "power": "27.85",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743456957712
+    },
+    {
+      "id": "263d",
+      "power": "28.83",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743456962613
+    },
+    {
+      "id": "d9eb",
+      "power": "27.12",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743456967686
+    },
+    {
+      "id": "bff8",
+      "power": "27.51",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743456972687
+    },
+    {
+      "id": "8f21",
+      "power": "25.85",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743456977668
+    },
+    {
+      "id": "c6eb",
+      "power": "27.89",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743456982628
+    },
+    {
+      "id": "e410",
+      "power": "26.86",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743456987824
+    },
+    {
+      "id": "8fe0",
+      "power": "29.04",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743456992711
+    },
+    {
+      "id": "4dc3",
+      "power": "27.72",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743456997684
+    },
+    {
+      "id": "ab66",
+      "power": "27.67",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743457002689
+    },
+    {
+      "id": "3d0e",
+      "power": "26.80",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743457007646
+    },
+    {
+      "id": "6b0d",
+      "power": "26.70",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743457012663
+    },
+    {
+      "id": "44c8",
+      "power": "29.85",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743457017691
+    },
+    {
+      "id": "c5d2",
+      "power": "28.59",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743457022672
+    },
+    {
+      "id": "5213",
+      "power": "29.76",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743457027680
+    },
+    {
+      "id": "8ddb",
+      "power": "29.46",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743457032729
+    },
+    {
+      "id": "d83c",
+      "power": "29.66",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743457037651
+    },
+    {
+      "id": "124f",
+      "power": "27.71",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743457042659
+    },
+    {
+      "id": "6059",
+      "power": "27.33",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743457047639
+    },
+    {
+      "id": "56c2",
+      "power": "27.81",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743457052778
+    },
+    {
+      "id": "5656",
+      "power": "29.08",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743457057650
+    },
+    {
+      "id": "591f",
+      "power": "27.72",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743457062658
+    },
+    {
+      "id": "0f62",
+      "power": "28.34",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743457067740
+    },
+    {
+      "id": "888b",
+      "power": "27.15",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743457072723
+    },
+    {
+      "id": "86d4",
+      "power": "27.93",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743457077740
+    },
+    {
+      "id": "4710",
+      "power": "26.83",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743457082707
+    },
+    {
+      "id": "1ccc",
+      "power": "28.89",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743457087633
+    },
+    {
+      "id": "d9d5",
+      "power": "26.70",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743457092743
+    },
+    {
+      "id": "1b03",
+      "power": "26.72",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743457097639
+    },
+    {
+      "id": "46cd",
+      "power": "26.86",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743457102633
+    },
+    {
+      "id": "a39a",
+      "power": "27.35",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743457107686
+    },
+    {
+      "id": "6d7b",
+      "power": "28.43",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743457112659
+    },
+    {
+      "id": "4aeb",
+      "power": "27.05",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743457117646
+    },
+    {
+      "id": "d5e2",
+      "power": "28.09",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743457122728
+    },
+    {
+      "id": "e407",
+      "power": "28.56",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743457127745
+    },
+    {
+      "id": "bf2f",
+      "power": "30.32",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743457132715
+    },
+    {
+      "id": "2011",
+      "power": "28.44",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743457137670
+    },
+    {
+      "id": "1a03",
+      "power": "27.56",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743457142658
+    },
+    {
+      "id": "07b0",
+      "power": "26.87",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743457147725
+    },
+    {
+      "id": "747f",
+      "power": "28.12",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743457152762
+    },
+    {
+      "id": "54f5",
+      "power": "28.82",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743457157719
+    },
+    {
+      "id": "9e24",
+      "power": "28.68",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743457162631
+    },
+    {
+      "id": "fe32",
+      "power": "27.37",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743457167696
+    },
+    {
+      "id": "dc2d",
+      "power": "28.86",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743457172616
+    },
+    {
+      "id": "12d3",
+      "power": "27.43",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743457177676
+    },
+    {
+      "id": "812d",
+      "power": "28.77",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743457182670
+    },
+    {
+      "id": "c07a",
+      "power": "28.06",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743457187623
+    },
+    {
+      "id": "3364",
+      "power": "28.20",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743457192692
+    },
+    {
+      "id": "3cc9",
+      "power": "27.46",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743457197735
+    },
+    {
+      "id": "6fb3",
+      "power": "29.31",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743457202732
+    },
+    {
+      "id": "6190",
+      "power": "27.80",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743457207702
+    },
+    {
+      "id": "f7a3",
+      "power": "29.40",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743457212729
+    },
+    {
+      "id": "494a",
+      "power": "33.02",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743457217760
+    },
+    {
+      "id": "5341",
+      "power": "31.55",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743457222701
+    },
+    {
+      "id": "2dfb",
+      "power": "28.83",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743457227800
+    },
+    {
+      "id": "9566",
+      "power": "32.20",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743457232924
+    },
+    {
+      "id": "464d",
+      "power": "30.14",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743457237868
+    },
+    {
+      "id": "e57f",
+      "power": "32.13",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743457242804
+    },
+    {
+      "id": "d5c2",
+      "power": "30.22",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743457247748
+    },
+    {
+      "id": "daf1",
+      "power": "28.66",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743457252713
+    },
+    {
+      "id": "19dc",
+      "power": "28.32",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743457257825
+    },
+    {
+      "id": "0473",
+      "power": "29.64",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743457262698
+    },
+    {
+      "id": "0352",
+      "power": "28.82",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743457267649
+    },
+    {
+      "id": "d022",
+      "power": "27.76",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743457272726
+    },
+    {
+      "id": "3ea6",
+      "power": "27.89",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743457277688
+    },
+    {
+      "id": "0a34",
+      "power": "27.52",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743457282702
+    },
+    {
+      "id": "7807",
+      "power": "26.89",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743457287753
+    },
+    {
+      "id": "ce87",
+      "power": "27.94",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743457292642
+    },
+    {
+      "id": "10cb",
+      "power": "28.38",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743457297644
+    },
+    {
+      "id": "57fc",
+      "power": "28.21",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743457303749
+    },
+    {
+      "id": "c9fb",
+      "power": "35.36",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743457307678
+    },
+    {
+      "id": "3518",
+      "power": "27.50",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743457312674
+    },
+    {
+      "id": "485d",
+      "power": "27.64",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743457317729
+    },
+    {
+      "id": "7d78",
+      "power": "30.44",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743457322717
+    },
+    {
+      "id": "a2d1",
+      "power": "28.59",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743457327726
+    },
+    {
+      "id": "95d3",
+      "power": "30.27",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743457332769
+    },
+    {
+      "id": "61f7",
+      "power": "27.29",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743457337763
+    },
+    {
+      "id": "8210",
+      "power": "28.06",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743457342648
+    },
+    {
+      "id": "a140",
+      "power": "25.51",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743457347727
+    },
+    {
+      "id": "5a26",
+      "power": "28.02",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743457352661
+    },
+    {
+      "id": "8b29",
+      "power": "29.28",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743457357592
+    },
+    {
+      "id": "3702",
+      "power": "26.87",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743457362685
+    },
+    {
+      "id": "b30b",
+      "power": "27.80",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743457367573
+    },
+    {
+      "id": "3aea",
+      "power": "26.71",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743457372658
+    },
+    {
+      "id": "6a79",
+      "power": "26.68",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743457377711
+    },
+    {
+      "id": "231d",
+      "power": "27.13",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743457382623
+    },
+    {
+      "id": "2f85",
+      "power": "25.50",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743457387633
+    },
+    {
+      "id": "4330",
+      "power": "26.39",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743457392636
+    },
+    {
+      "id": "c104",
+      "power": "27.18",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743457397563
+    },
+    {
+      "id": "7fa7",
+      "power": "26.89",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743457402553
+    },
+    {
+      "id": "210d",
+      "power": "27.10",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743457407714
+    },
+    {
+      "id": "6db4",
+      "power": "30.01",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743457412675
+    },
+    {
+      "id": "2ea0",
+      "power": "29.43",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743457417648
+    },
+    {
+      "id": "97fb",
+      "power": "27.97",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743457422703
+    },
+    {
+      "id": "8fde",
+      "power": "26.08",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743457427613
+    },
+    {
+      "id": "053b",
+      "power": "27.36",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743457432611
+    },
+    {
+      "id": "c759",
+      "power": "27.48",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743457437695
+    },
+    {
+      "id": "8f1f",
+      "power": "29.67",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743457442644
+    },
+    {
+      "id": "b3bc",
+      "power": "28.05",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743457447624
+    },
+    {
+      "id": "c19c",
+      "power": "28.56",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743457452760
+    },
+    {
+      "id": "32c1",
+      "power": "28.51",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743457457654
+    },
+    {
+      "id": "3ac8",
+      "power": "28.78",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743457462686
+    },
+    {
+      "id": "afb6",
+      "power": "28.62",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743457467867
+    },
+    {
+      "id": "6240",
+      "power": "30.20",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743457472751
+    },
+    {
+      "id": "34ca",
+      "power": "28.97",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743457477698
+    },
+    {
+      "id": "eb09",
+      "power": "28.30",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743457482672
+    },
+    {
+      "id": "b226",
+      "power": "27.94",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743457487605
+    },
+    {
+      "id": "dd3c",
+      "power": "28.40",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743457492631
+    },
+    {
+      "id": "dd99",
+      "power": "26.56",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743457497626
+    },
+    {
+      "id": "6eff",
+      "power": "26.58",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743457502576
+    },
+    {
+      "id": "dfe2",
+      "power": "26.12",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743457507577
+    },
+    {
+      "id": "3d32",
+      "power": "27.87",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743457512603
+    },
+    {
+      "id": "5b24",
+      "power": "28.90",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743457517689
+    },
+    {
+      "id": "9c93",
+      "power": "30.96",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743457522620
+    },
+    {
+      "id": "c1d5",
+      "power": "26.76",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743457527638
+    },
+    {
+      "id": "eafa",
+      "power": "27.79",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743457532633
+    },
+    {
+      "id": "9bae",
+      "power": "27.59",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743457537674
+    },
+    {
+      "id": "ee9b",
+      "power": "27.78",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743457542654
+    },
+    {
+      "id": "7a9b",
+      "power": "27.84",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743457547670
+    },
+    {
+      "id": "b591",
+      "power": "27.93",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743457552590
+    },
+    {
+      "id": "f114",
+      "power": "26.21",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743457557595
+    },
+    {
+      "id": "b1c3",
+      "power": "27.92",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743457562610
+    },
+    {
+      "id": "e55e",
+      "power": "25.26",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743457567551
+    },
+    {
+      "id": "5221",
+      "power": "24.82",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743457572536
+    },
+    {
+      "id": "0254",
+      "power": "22.15",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743457577525
+    },
+    {
+      "id": "b7b4",
+      "power": "20.21",
+      "intensity": 500,
+      "emissions": "0.01",
+      "date": 1743457582562
+    },
+    {
+      "id": "14aa",
+      "power": "21.69",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743457587523
+    },
+    {
+      "id": "d40c",
+      "power": "22.13",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743457592491
+    },
+    {
+      "id": "3368",
+      "power": "20.11",
+      "intensity": 500,
+      "emissions": "0.01",
+      "date": 1743457597519
+    },
+    {
+      "id": "147a",
+      "power": "21.80",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743457602597
+    },
+    {
+      "id": "0373",
+      "power": "24.13",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743457607543
+    },
+    {
+      "id": "109c",
+      "power": "20.84",
+      "intensity": 500,
+      "emissions": "0.01",
+      "date": 1743457612571
+    },
+    {
+      "id": "e77c",
+      "power": "21.74",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743457617556
+    },
+    {
+      "id": "c5a8",
+      "power": "21.70",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743457622540
+    },
+    {
+      "id": "a3c2",
+      "power": "20.52",
+      "intensity": 500,
+      "emissions": "0.01",
+      "date": 1743457627528
+    },
+    {
+      "id": "c149",
+      "power": "21.78",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743457632544
+    },
+    {
+      "id": "c935",
+      "power": "21.15",
+      "intensity": 500,
+      "emissions": "0.01",
+      "date": 1743457637570
+    },
+    {
+      "id": "4732",
+      "power": "20.53",
+      "intensity": 500,
+      "emissions": "0.01",
+      "date": 1743457642547
+    },
+    {
+      "id": "aa2f",
+      "power": "21.30",
+      "intensity": 500,
+      "emissions": "0.01",
+      "date": 1743457647514
+    },
+    {
+      "id": "2a58",
+      "power": "27.63",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743457652542
+    },
+    {
+      "id": "277a",
+      "power": "24.37",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743457657616
+    },
+    {
+      "id": "69d8",
+      "power": "23.34",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743457662518
+    },
+    {
+      "id": "5cbf",
+      "power": "23.29",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743457667575
+    },
+    {
+      "id": "0036",
+      "power": "21.43",
+      "intensity": 500,
+      "emissions": "0.01",
+      "date": 1743457672520
+    },
+    {
+      "id": "a9a0",
+      "power": "21.77",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743457677557
+    },
+    {
+      "id": "5e8d",
+      "power": "25.61",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743457682562
+    },
+    {
+      "id": "0321",
+      "power": "21.37",
+      "intensity": 500,
+      "emissions": "0.01",
+      "date": 1743457687517
+    },
+    {
+      "id": "491e",
+      "power": "21.65",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743457692563
+    },
+    {
+      "id": "1a2a",
+      "power": "22.96",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743457697554
+    },
+    {
+      "id": "ab17",
+      "power": "21.71",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743457702504
+    },
+    {
+      "id": "c28c",
+      "power": "22.24",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743457707603
+    },
+    {
+      "id": "fddc",
+      "power": "23.13",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743457712572
+    },
+    {
+      "id": "22f4",
+      "power": "22.54",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743457717487
+    },
+    {
+      "id": "58f3",
+      "power": "21.22",
+      "intensity": 500,
+      "emissions": "0.01",
+      "date": 1743457722559
+    },
+    {
+      "id": "8a35",
+      "power": "23.26",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743457727495
+    },
+    {
+      "id": "a2e9",
+      "power": "21.46",
+      "intensity": 500,
+      "emissions": "0.01",
+      "date": 1743457732584
+    },
+    {
+      "id": "1e9e",
+      "power": "22.32",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743457737537
+    },
+    {
+      "id": "c527",
+      "power": "23.53",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743457742514
+    },
+    {
+      "id": "5d0d",
+      "power": "21.46",
+      "intensity": 500,
+      "emissions": "0.01",
+      "date": 1743457747539
+    },
+    {
+      "id": "faaf",
+      "power": "20.55",
+      "intensity": 500,
+      "emissions": "0.01",
+      "date": 1743457752517
+    },
+    {
+      "id": "93c4",
+      "power": "23.50",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743457757547
+    },
+    {
+      "id": "b5c0",
+      "power": "21.06",
+      "intensity": 500,
+      "emissions": "0.01",
+      "date": 1743457762477
+    },
+    {
+      "id": "4678",
+      "power": "21.45",
+      "intensity": 500,
+      "emissions": "0.01",
+      "date": 1743457767538
+    },
+    {
+      "id": "b118",
+      "power": "22.08",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743457772522
+    },
+    {
+      "id": "143b",
+      "power": "22.15",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743457777555
+    },
+    {
+      "id": "dcfe",
+      "power": "21.42",
+      "intensity": 500,
+      "emissions": "0.01",
+      "date": 1743457782604
+    },
+    {
+      "id": "a17c",
+      "power": "22.54",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743457787530
+    },
+    {
+      "id": "8ef0",
+      "power": "22.91",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743457792581
+    },
+    {
+      "id": "3810",
+      "power": "22.70",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743457797513
+    },
+    {
+      "id": "2ec5",
+      "power": "23.49",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743457802546
+    },
+    {
+      "id": "e2c7",
+      "power": "22.45",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743457807539
+    },
+    {
+      "id": "99e7",
+      "power": "20.74",
+      "intensity": 500,
+      "emissions": "0.01",
+      "date": 1743457812552
+    },
+    {
+      "id": "1d52",
+      "power": "23.86",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743457817533
+    },
+    {
+      "id": "ec49",
+      "power": "27.94",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743457822529
+    },
+    {
+      "id": "0ece",
+      "power": "27.92",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743457827591
+    },
+    {
+      "id": "8805",
+      "power": "27.52",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743457832512
+    },
+    {
+      "id": "820c",
+      "power": "24.32",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743457837558
+    },
+    {
+      "id": "a9e5",
+      "power": "21.16",
+      "intensity": 500,
+      "emissions": "0.01",
+      "date": 1743457842526
+    },
+    {
+      "id": "77b1",
+      "power": "22.30",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743457847547
+    },
+    {
+      "id": "881b",
+      "power": "21.08",
+      "intensity": 500,
+      "emissions": "0.01",
+      "date": 1743457852548
+    },
+    {
+      "id": "c502",
+      "power": "22.54",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743457857534
+    },
+    {
+      "id": "21e3",
+      "power": "22.18",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743457862539
+    },
+    {
+      "id": "a160",
+      "power": "23.62",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743457867540
+    },
+    {
+      "id": "c964",
+      "power": "20.74",
+      "intensity": 500,
+      "emissions": "0.01",
+      "date": 1743457872518
+    },
+    {
+      "id": "ca26",
+      "power": "21.97",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743457877540
+    },
+    {
+      "id": "c11a",
+      "power": "21.74",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743457882546
+    },
+    {
+      "id": "84ea",
+      "power": "21.32",
+      "intensity": 500,
+      "emissions": "0.01",
+      "date": 1743457887519
+    },
+    {
+      "id": "77a6",
+      "power": "21.46",
+      "intensity": 500,
+      "emissions": "0.01",
+      "date": 1743457892532
+    },
+    {
+      "id": "3232",
+      "power": "24.08",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743457897511
+    },
+    {
+      "id": "f992",
+      "power": "21.62",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743457902529
+    },
+    {
+      "id": "0e60",
+      "power": "22.70",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743457907580
+    },
+    {
+      "id": "4bdf",
+      "power": "25.80",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743457912560
+    },
+    {
+      "id": "be43",
+      "power": "22.19",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743457917535
+    },
+    {
+      "id": "c65b",
+      "power": "23.02",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743457922521
+    },
+    {
+      "id": "2c83",
+      "power": "21.65",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743457927525
+    },
+    {
+      "id": "8034",
+      "power": "21.62",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743457932512
+    },
+    {
+      "id": "0211",
+      "power": "21.94",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743457937539
+    },
+    {
+      "id": "928c",
+      "power": "21.47",
+      "intensity": 500,
+      "emissions": "0.01",
+      "date": 1743457942539
+    },
+    {
+      "id": "3195",
+      "power": "20.86",
+      "intensity": 500,
+      "emissions": "0.01",
+      "date": 1743457947541
+    },
+    {
+      "id": "852f",
+      "power": "22.37",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743457952538
+    },
+    {
+      "id": "9a2f",
+      "power": "24.69",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743457957629
+    },
+    {
+      "id": "3abf",
+      "power": "23.41",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743457962559
+    },
+    {
+      "id": "6b9f",
+      "power": "21.83",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743457967553
+    },
+    {
+      "id": "b746",
+      "power": "22.28",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743457972586
+    },
+    {
+      "id": "c947",
+      "power": "22.34",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743457977626
+    },
+    {
+      "id": "d041",
+      "power": "22.94",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743457982547
+    },
+    {
+      "id": "5ffa",
+      "power": "21.20",
+      "intensity": 500,
+      "emissions": "0.01",
+      "date": 1743457987552
+    },
+    {
+      "id": "711d",
+      "power": "22.53",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743457992581
+    },
+    {
+      "id": "5766",
+      "power": "22.97",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743457997564
+    },
+    {
+      "id": "7210",
+      "power": "22.21",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743458002541
+    },
+    {
+      "id": "ed76",
+      "power": "20.99",
+      "intensity": 500,
+      "emissions": "0.01",
+      "date": 1743458007574
+    },
+    {
+      "id": "53c0",
+      "power": "22.19",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743458012553
+    },
+    {
+      "id": "614f",
+      "power": "21.28",
+      "intensity": 500,
+      "emissions": "0.01",
+      "date": 1743458017550
+    },
+    {
+      "id": "d73b",
+      "power": "21.46",
+      "intensity": 500,
+      "emissions": "0.01",
+      "date": 1743458022570
+    },
+    {
+      "id": "059d",
+      "power": "23.64",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743458027538
+    },
+    {
+      "id": "d9cd",
+      "power": "21.63",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743458032591
+    },
+    {
+      "id": "e2be",
+      "power": "21.39",
+      "intensity": 500,
+      "emissions": "0.01",
+      "date": 1743458037585
+    },
+    {
+      "id": "aa8d",
+      "power": "22.38",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743458042589
+    },
+    {
+      "id": "0929",
+      "power": "22.84",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743458047576
+    },
+    {
+      "id": "7432",
+      "power": "21.93",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743458052575
+    },
+    {
+      "id": "7ded",
+      "power": "22.00",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743458057558
+    },
+    {
+      "id": "5249",
+      "power": "22.62",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743458062582
+    },
+    {
+      "id": "248b",
+      "power": "22.74",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743458067581
+    },
+    {
+      "id": "31c9",
+      "power": "22.12",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743458072558
+    },
+    {
+      "id": "ba60",
+      "power": "20.20",
+      "intensity": 500,
+      "emissions": "0.01",
+      "date": 1743458077541
+    },
+    {
+      "id": "3eea",
+      "power": "21.86",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743458082621
+    },
+    {
+      "id": "0a0a",
+      "power": "22.76",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743458087535
+    },
+    {
+      "id": "2e82",
+      "power": "21.17",
+      "intensity": 500,
+      "emissions": "0.01",
+      "date": 1743458092554
+    },
+    {
+      "id": "f583",
+      "power": "22.24",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743458097528
+    },
+    {
+      "id": "84a0",
+      "power": "21.62",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743458102554
+    },
+    {
+      "id": "a322",
+      "power": "21.63",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743458107587
+    },
+    {
+      "id": "e63f",
+      "power": "21.52",
+      "intensity": 500,
+      "emissions": "0.01",
+      "date": 1743458112557
+    },
+    {
+      "id": "b54a",
+      "power": "23.54",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743458117574
+    },
+    {
+      "id": "89ee",
+      "power": "24.94",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743458122568
+    },
+    {
+      "id": "ed49",
+      "power": "27.60",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743458127579
+    },
+    {
+      "id": "2ae0",
+      "power": "23.61",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743458132564
+    },
+    {
+      "id": "3b8a",
+      "power": "21.17",
+      "intensity": 500,
+      "emissions": "0.01",
+      "date": 1743458137585
+    },
+    {
+      "id": "9691",
+      "power": "22.71",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743458142551
+    },
+    {
+      "id": "85f9",
+      "power": "23.28",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743458147580
+    },
+    {
+      "id": "0ec2",
+      "power": "21.62",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743458152578
+    },
+    {
+      "id": "76f6",
+      "power": "22.22",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743458157535
+    },
+    {
+      "id": "566f",
+      "power": "21.51",
+      "intensity": 500,
+      "emissions": "0.01",
+      "date": 1743458162542
+    },
+    {
+      "id": "f91c",
+      "power": "24.06",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743458167566
+    },
+    {
+      "id": "9d67",
+      "power": "22.88",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743458172642
+    },
+    {
+      "id": "662f",
+      "power": "24.18",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743458177566
+    },
+    {
+      "id": "18d1",
+      "power": "22.65",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743458182568
+    },
+    {
+      "id": "b5f0",
+      "power": "22.82",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743458187577
+    },
+    {
+      "id": "70af",
+      "power": "23.86",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743458192597
+    },
+    {
+      "id": "2d99",
+      "power": "23.85",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743458197575
+    },
+    {
+      "id": "6194",
+      "power": "23.36",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743458202558
+    },
+    {
+      "id": "a80f",
+      "power": "23.37",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743458207565
+    },
+    {
+      "id": "9963",
+      "power": "21.49",
+      "intensity": 500,
+      "emissions": "0.01",
+      "date": 1743458212610
+    },
+    {
+      "id": "a9a2",
+      "power": "24.36",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743458217607
+    },
+    {
+      "id": "c6c9",
+      "power": "25.53",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743458222598
+    },
+    {
+      "id": "3bf5",
+      "power": "22.31",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743458227624
+    },
+    {
+      "id": "60ce",
+      "power": "23.28",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743458232615
+    },
+    {
+      "id": "e494",
+      "power": "22.39",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743458237573
+    },
+    {
+      "id": "a601",
+      "power": "21.67",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743458242561
+    },
+    {
+      "id": "05de",
+      "power": "22.15",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743458247557
+    },
+    {
+      "id": "09b8",
+      "power": "21.63",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743458252570
+    },
+    {
+      "id": "c10a",
+      "power": "22.17",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743458257586
+    },
+    {
+      "id": "6963",
+      "power": "22.65",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743458262530
+    },
+    {
+      "id": "d9e2",
+      "power": "21.52",
+      "intensity": 500,
+      "emissions": "0.01",
+      "date": 1743458267547
+    },
+    {
+      "id": "0e6f",
+      "power": "37.00",
+      "intensity": 500,
+      "emissions": "0.03",
+      "date": 1743458272667
+    },
+    {
+      "id": "8bbf",
+      "power": "28.79",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743458277532
+    },
+    {
+      "id": "2cf9",
+      "power": "24.96",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743458282515
+    },
+    {
+      "id": "ea64",
+      "power": "22.06",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743458287532
+    },
+    {
+      "id": "e443",
+      "power": "22.99",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743458292531
+    },
+    {
+      "id": "bad4",
+      "power": "25.19",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743458297577
+    },
+    {
+      "id": "3c7c",
+      "power": "23.28",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743458302511
+    },
+    {
+      "id": "c136",
+      "power": "22.39",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743458307526
+    },
+    {
+      "id": "34e1",
+      "power": "23.02",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743458312518
+    },
+    {
+      "id": "f736",
+      "power": "24.85",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743458317611
+    },
+    {
+      "id": "a5db",
+      "power": "25.04",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743458322518
+    },
+    {
+      "id": "fda2",
+      "power": "23.56",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743458327568
+    },
+    {
+      "id": "e1f9",
+      "power": "25.46",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743458332582
+    },
+    {
+      "id": "6e3e",
+      "power": "25.76",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743458337543
+    },
+    {
+      "id": "8ba7",
+      "power": "24.51",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743458342515
+    },
+    {
+      "id": "674c",
+      "power": "23.59",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743458347516
+    },
+    {
+      "id": "425b",
+      "power": "23.18",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743458352542
+    },
+    {
+      "id": "57c9",
+      "power": "23.24",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743458357682
+    },
+    {
+      "id": "cb23",
+      "power": "23.39",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743458362496
+    },
+    {
+      "id": "5e9e",
+      "power": "22.38",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743458367493
+    },
+    {
+      "id": "14b0",
+      "power": "23.48",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743458372501
+    },
+    {
+      "id": "e29e",
+      "power": "23.43",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743458377505
+    },
+    {
+      "id": "e88d",
+      "power": "22.77",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743458382545
+    },
+    {
+      "id": "6a6c",
+      "power": "23.28",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743458387572
+    },
+    {
+      "id": "3ee4",
+      "power": "22.81",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743458392524
+    },
+    {
+      "id": "15c5",
+      "power": "22.95",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743458397507
+    },
+    {
+      "id": "f35d",
+      "power": "23.68",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743458402506
+    },
+    {
+      "id": "753f",
+      "power": "22.22",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743458407516
+    },
+    {
+      "id": "6986",
+      "power": "23.28",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743458412536
+    },
+    {
+      "id": "4137",
+      "power": "23.85",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743458417520
+    },
+    {
+      "id": "8682",
+      "power": "22.31",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743458422519
+    },
+    {
+      "id": "bdfe",
+      "power": "22.77",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743458427510
+    },
+    {
+      "id": "af19",
+      "power": "23.20",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743458432503
+    },
+    {
+      "id": "49a5",
+      "power": "22.61",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743458437510
+    },
+    {
+      "id": "407f",
+      "power": "22.10",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743458442473
+    },
+    {
+      "id": "b227",
+      "power": "24.21",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743458447486
+    },
+    {
+      "id": "02e0",
+      "power": "22.90",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743458452529
+    },
+    {
+      "id": "7c15",
+      "power": "23.35",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743458457513
+    },
+    {
+      "id": "e83a",
+      "power": "23.85",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743458462541
+    },
+    {
+      "id": "98b9",
+      "power": "25.11",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743458467579
+    },
+    {
+      "id": "15c3",
+      "power": "23.77",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743458472525
+    },
+    {
+      "id": "bea3",
+      "power": "24.47",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743458477565
+    },
+    {
+      "id": "c74a",
+      "power": "22.94",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743458482508
+    },
+    {
+      "id": "0b5a",
+      "power": "22.61",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743458487520
+    },
+    {
+      "id": "3815",
+      "power": "23.40",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743458492535
+    },
+    {
+      "id": "71ab",
+      "power": "23.34",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743458497528
+    },
+    {
+      "id": "07da",
+      "power": "23.09",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743458502563
+    },
+    {
+      "id": "010c",
+      "power": "24.36",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743458507510
+    },
+    {
+      "id": "a342",
+      "power": "23.64",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743458512550
+    },
+    {
+      "id": "313d",
+      "power": "22.93",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743458517522
+    },
+    {
+      "id": "708c",
+      "power": "26.19",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743458522711
+    },
+    {
+      "id": "02c6",
+      "power": "21.58",
+      "intensity": 500,
+      "emissions": "0.01",
+      "date": 1743458527817
+    },
+    {
+      "id": "85ca",
+      "power": "23.93",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743458532729
+    },
+    {
+      "id": "dd33",
+      "power": "22.94",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743458537763
+    },
+    {
+      "id": "4599",
+      "power": "22.07",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743458542707
+    },
+    {
+      "id": "de11",
+      "power": "23.33",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743458547743
+    },
+    {
+      "id": "0895",
+      "power": "23.59",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743458552773
+    },
+    {
+      "id": "1929",
+      "power": "22.44",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743458557772
+    },
+    {
+      "id": "a5f6",
+      "power": "23.83",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743458562765
+    },
+    {
+      "id": "8bdc",
+      "power": "23.26",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743458567752
+    },
+    {
+      "id": "4554",
+      "power": "23.52",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743458572891
+    },
+    {
+      "id": "a2b3",
+      "power": "24.82",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743458577817
+    },
+    {
+      "id": "31c9",
+      "power": "23.72",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743458582772
+    },
+    {
+      "id": "8644",
+      "power": "24.25",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743458587798
+    },
+    {
+      "id": "c9a1",
+      "power": "22.31",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743458592775
+    },
+    {
+      "id": "19e4",
+      "power": "22.89",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743458597780
+    },
+    {
+      "id": "3017",
+      "power": "22.50",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743458602760
+    },
+    {
+      "id": "9cfe",
+      "power": "21.95",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743458607765
+    },
+    {
+      "id": "ccef",
+      "power": "23.74",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743458612904
+    },
+    {
+      "id": "4b46",
+      "power": "23.32",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743458617756
+    },
+    {
+      "id": "bdc3",
+      "power": "21.92",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743458622783
+    },
+    {
+      "id": "afd5",
+      "power": "23.55",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743458627771
+    },
+    {
+      "id": "8e2e",
+      "power": "23.67",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743458632802
+    },
+    {
+      "id": "e6e0",
+      "power": "24.14",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743458637831
+    },
+    {
+      "id": "5e95",
+      "power": "23.22",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743458642827
+    },
+    {
+      "id": "45e1",
+      "power": "22.22",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743458647758
+    },
+    {
+      "id": "6203",
+      "power": "22.76",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743458652787
+    },
+    {
+      "id": "4554",
+      "power": "22.89",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743458657813
+    },
+    {
+      "id": "29ae",
+      "power": "23.13",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743458662825
+    },
+    {
+      "id": "d2a1",
+      "power": "23.31",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743458667784
+    },
+    {
+      "id": "4d84",
+      "power": "23.15",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743458672799
+    },
+    {
+      "id": "5f27",
+      "power": "23.73",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743458677794
+    },
+    {
+      "id": "4055",
+      "power": "23.37",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743458682730
+    },
+    {
+      "id": "ec4f",
+      "power": "23.45",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743458687797
+    },
+    {
+      "id": "5721",
+      "power": "23.20",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743458692795
+    },
+    {
+      "id": "2634",
+      "power": "21.80",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743458697853
+    },
+    {
+      "id": "c5fe",
+      "power": "22.65",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743458702877
+    },
+    {
+      "id": "a26f",
+      "power": "27.14",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743458708144
+    },
+    {
+      "id": "e021",
+      "power": "24.61",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743458712802
+    },
+    {
+      "id": "2ed5",
+      "power": "24.23",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743458717829
+    },
+    {
+      "id": "f760",
+      "power": "23.27",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743458722789
+    },
+    {
+      "id": "685f",
+      "power": "24.19",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743458727794
+    },
+    {
+      "id": "b68b",
+      "power": "22.66",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743458732812
+    },
+    {
+      "id": "b24b",
+      "power": "25.91",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743458737813
+    },
+    {
+      "id": "fe24",
+      "power": "25.56",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743458743136
+    },
+    {
+      "id": "12de",
+      "power": "26.68",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743458747791
+    },
+    {
+      "id": "b9a7",
+      "power": "27.80",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743458752790
+    },
+    {
+      "id": "d4c0",
+      "power": "24.32",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743458757800
+    },
+    {
+      "id": "7255",
+      "power": "25.32",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743458762965
+    },
+    {
+      "id": "f288",
+      "power": "28.01",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743458767801
+    },
+    {
+      "id": "6482",
+      "power": "24.17",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743458772903
+    },
+    {
+      "id": "71db",
+      "power": "23.91",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743458777827
+    },
+    {
+      "id": "5340",
+      "power": "23.36",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743458782804
+    },
+    {
+      "id": "6852",
+      "power": "23.07",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743458787780
+    },
+    {
+      "id": "7b15",
+      "power": "22.65",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743458792822
+    },
+    {
+      "id": "57ec",
+      "power": "24.99",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743458797797
+    },
+    {
+      "id": "44ee",
+      "power": "23.28",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743458802790
+    },
+    {
+      "id": "3748",
+      "power": "23.88",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743458807805
+    },
+    {
+      "id": "928c",
+      "power": "24.72",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743458812786
+    },
+    {
+      "id": "c64b",
+      "power": "22.88",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743458817806
+    },
+    {
+      "id": "6e4a",
+      "power": "24.52",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743458822920
+    },
+    {
+      "id": "4613",
+      "power": "26.07",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743458827802
+    },
+    {
+      "id": "2c3c",
+      "power": "24.45",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743458832824
+    },
+    {
+      "id": "e051",
+      "power": "24.03",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743458837882
+    },
+    {
+      "id": "02b4",
+      "power": "25.81",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743458842798
+    },
+    {
+      "id": "d83b",
+      "power": "23.71",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743458847765
+    },
+    {
+      "id": "9256",
+      "power": "24.37",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743458852841
+    },
+    {
+      "id": "7870",
+      "power": "24.04",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743458857849
+    },
+    {
+      "id": "93ad",
+      "power": "22.93",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743458862774
+    },
+    {
+      "id": "e66f",
+      "power": "23.61",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743458867855
+    },
+    {
+      "id": "b1a1",
+      "power": "22.87",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743458872790
+    },
+    {
+      "id": "f913",
+      "power": "24.87",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743458877820
+    },
+    {
+      "id": "63d3",
+      "power": "23.92",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743458882837
+    },
+    {
+      "id": "2e85",
+      "power": "23.83",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743458887785
+    },
+    {
+      "id": "aed9",
+      "power": "24.39",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743458892791
+    },
+    {
+      "id": "7486",
+      "power": "22.20",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743458897834
+    },
+    {
+      "id": "3338",
+      "power": "24.66",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743458902842
+    },
+    {
+      "id": "787c",
+      "power": "23.41",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743458907833
+    },
+    {
+      "id": "f7bb",
+      "power": "24.10",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743458912824
+    },
+    {
+      "id": "dd7a",
+      "power": "22.97",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743458917746
+    },
+    {
+      "id": "4f9d",
+      "power": "22.37",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743458922784
+    },
+    {
+      "id": "7495",
+      "power": "22.81",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743458927853
+    },
+    {
+      "id": "17ce",
+      "power": "27.34",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743458932700
+    },
+    {
+      "id": "3b2f",
+      "power": "23.09",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743458937848
+    },
+    {
+      "id": "b9f8",
+      "power": "24.31",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743458942864
+    },
+    {
+      "id": "af63",
+      "power": "24.52",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743458947781
+    },
+    {
+      "id": "5fc2",
+      "power": "23.38",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743458952774
+    },
+    {
+      "id": "cf93",
+      "power": "22.32",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743458957901
+    },
+    {
+      "id": "631f",
+      "power": "23.13",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743458962800
+    },
+    {
+      "id": "64fb",
+      "power": "23.34",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743458967753
+    },
+    {
+      "id": "bdce",
+      "power": "22.84",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743458972792
+    },
+    {
+      "id": "361b",
+      "power": "24.16",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743458977831
+    },
+    {
+      "id": "650f",
+      "power": "22.97",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743458982788
+    },
+    {
+      "id": "2ea8",
+      "power": "22.32",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743458987880
+    },
+    {
+      "id": "978e",
+      "power": "24.77",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743458992837
+    },
+    {
+      "id": "a5c5",
+      "power": "25.04",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743458997811
+    },
+    {
+      "id": "08c7",
+      "power": "24.78",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743459002826
+    },
+    {
+      "id": "36ca",
+      "power": "24.18",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743459007786
+    },
+    {
+      "id": "0719",
+      "power": "23.39",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743459012613
+    },
+    {
+      "id": "ed5c",
+      "power": "24.15",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743459018350
+    },
+    {
+      "id": "41a3",
+      "power": "33.89",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743459023291
+    },
+    {
+      "id": "f995",
+      "power": "24.67",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743459027773
+    },
+    {
+      "id": "c497",
+      "power": "20.83",
+      "intensity": 500,
+      "emissions": "0.01",
+      "date": 1743459032796
+    },
+    {
+      "id": "0afe",
+      "power": "22.52",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743459037588
+    },
+    {
+      "id": "9ce3",
+      "power": "16.93",
+      "intensity": 500,
+      "emissions": "0.01",
+      "date": 1743459042576
+    },
+    {
+      "id": "223a",
+      "power": "15.16",
+      "intensity": 500,
+      "emissions": "0.01",
+      "date": 1743459047675
+    },
+    {
+      "id": "0d22",
+      "power": "16.06",
+      "intensity": 500,
+      "emissions": "0.01",
+      "date": 1743459052619
+    },
+    {
+      "id": "d232",
+      "power": "18.08",
+      "intensity": 500,
+      "emissions": "0.01",
+      "date": 1743459057715
+    },
+    {
+      "id": "3f9f",
+      "power": "17.03",
+      "intensity": 500,
+      "emissions": "0.01",
+      "date": 1743459062720
+    },
+    {
+      "id": "4b91",
+      "power": "15.71",
+      "intensity": 500,
+      "emissions": "0.01",
+      "date": 1743459067563
+    },
+    {
+      "id": "f9ba",
+      "power": "14.67",
+      "intensity": 500,
+      "emissions": "0.01",
+      "date": 1743459072546
+    },
+    {
+      "id": "3166",
+      "power": "23.07",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743459077670
+    },
+    {
+      "id": "5b71",
+      "power": "21.71",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743459082613
+    },
+    {
+      "id": "188f",
+      "power": "15.90",
+      "intensity": 500,
+      "emissions": "0.01",
+      "date": 1743459087789
+    },
+    {
+      "id": "d14d",
+      "power": "12.10",
+      "intensity": 500,
+      "emissions": "0.01",
+      "date": 1743459116798
+    },
+    {
+      "id": "702f",
+      "power": "10.14",
+      "intensity": 500,
+      "emissions": "0.01",
+      "date": 1743459176656
+    },
+    {
+      "id": "e284",
+      "power": "9.75",
+      "intensity": 500,
+      "emissions": "0.01",
+      "date": 1743459236637
+    },
+    {
+      "id": "c99f",
+      "power": "10.41",
+      "intensity": 500,
+      "emissions": "0.01",
+      "date": 1743459296587
+    },
+    {
+      "id": "5dbb",
+      "power": "9.68",
+      "intensity": 500,
+      "emissions": "0.01",
+      "date": 1743459356607
+    },
+    {
+      "id": "54a8",
+      "power": "10.42",
+      "intensity": 500,
+      "emissions": "0.01",
+      "date": 1743459416580
+    },
+    {
+      "id": "2d51",
+      "power": "9.89",
+      "intensity": 500,
+      "emissions": "0.01",
+      "date": 1743459476680
+    },
+    {
+      "id": "836f",
+      "power": "11.23",
+      "intensity": 500,
+      "emissions": "0.01",
+      "date": 1743459536614
+    },
+    {
+      "id": "152a",
+      "power": "11.06",
+      "intensity": 500,
+      "emissions": "0.01",
+      "date": 1743459596587
+    },
+    {
+      "id": "7f81",
+      "power": "11.68",
+      "intensity": 500,
+      "emissions": "0.01",
+      "date": 1743459656591
+    },
+    {
+      "id": "e63a",
+      "power": "11.69",
+      "intensity": 500,
+      "emissions": "0.01",
+      "date": 1743459716606
+    },
+    {
+      "id": "3c97",
+      "power": "11.48",
+      "intensity": 500,
+      "emissions": "0.01",
+      "date": 1743459776732
+    },
+    {
+      "id": "f666",
+      "power": "11.35",
+      "intensity": 500,
+      "emissions": "0.01",
+      "date": 1743459836600
+    },
+    {
+      "id": "18a8",
+      "power": "11.66",
+      "intensity": 500,
+      "emissions": "0.01",
+      "date": 1743459896621
+    },
+    {
+      "id": "bbeb",
+      "power": "9.54",
+      "intensity": 500,
+      "emissions": "0.01",
+      "date": 1743459956572
+    },
+    {
+      "id": "409e",
+      "power": "8.84",
+      "intensity": 500,
+      "emissions": "0.01",
+      "date": 1743460016630
+    },
+    {
+      "id": "b157",
+      "power": "9.53",
+      "intensity": 500,
+      "emissions": "0.01",
+      "date": 1743460076579
+    },
+    {
+      "id": "5129",
+      "power": "9.25",
+      "intensity": 500,
+      "emissions": "0.01",
+      "date": 1743460136594
+    },
+    {
+      "id": "119e",
+      "power": "10.71",
+      "intensity": 500,
+      "emissions": "0.01",
+      "date": 1743460196539
+    },
+    {
+      "id": "d5db",
+      "power": "11.29",
+      "intensity": 500,
+      "emissions": "0.01",
+      "date": 1743460256620
+    },
+    {
+      "id": "533f",
+      "power": "9.94",
+      "intensity": 500,
+      "emissions": "0.01",
+      "date": 1743460316876
+    },
+    {
+      "id": "130d",
+      "power": "11.32",
+      "intensity": 500,
+      "emissions": "0.01",
+      "date": 1743460376756
+    },
+    {
+      "id": "d2f0",
+      "power": "11.26",
+      "intensity": 500,
+      "emissions": "0.01",
+      "date": 1743460436706
+    },
+    {
+      "id": "a8af",
+      "power": "10.59",
+      "intensity": 500,
+      "emissions": "0.01",
+      "date": 1743460496698
+    },
+    {
+      "id": "c5fd",
+      "power": "10.37",
+      "intensity": 500,
+      "emissions": "0.01",
+      "date": 1743460556677
+    },
+    {
+      "id": "5e76",
+      "power": "9.75",
+      "intensity": 500,
+      "emissions": "0.01",
+      "date": 1743460616846
+    },
+    {
+      "id": "aab5",
+      "power": "9.57",
+      "intensity": 500,
+      "emissions": "0.01",
+      "date": 1743460676659
+    },
+    {
+      "id": "d321",
+      "power": "9.52",
+      "intensity": 500,
+      "emissions": "0.01",
+      "date": 1743460736724
+    },
+    {
+      "id": "8db5",
+      "power": "9.73",
+      "intensity": 500,
+      "emissions": "0.01",
+      "date": 1743460796609
+    },
+    {
+      "id": "9ffe",
+      "power": "10.20",
+      "intensity": 500,
+      "emissions": "0.01",
+      "date": 1743460856719
+    },
+    {
+      "id": "4524",
+      "power": "9.71",
+      "intensity": 500,
+      "emissions": "0.01",
+      "date": 1743460916669
+    },
+    {
+      "id": "baa7",
+      "power": "9.91",
+      "intensity": 500,
+      "emissions": "0.01",
+      "date": 1743460976673
+    },
+    {
+      "id": "9032",
+      "power": "9.88",
+      "intensity": 500,
+      "emissions": "0.01",
+      "date": 1743461036816
+    },
+    {
+      "id": "1c44",
+      "power": "9.93",
+      "intensity": 500,
+      "emissions": "0.01",
+      "date": 1743461096645
+    },
+    {
+      "id": "c7a1",
+      "power": "9.59",
+      "intensity": 500,
+      "emissions": "0.01",
+      "date": 1743461156810
+    },
+    {
+      "id": "af90",
+      "power": "9.64",
+      "intensity": 500,
+      "emissions": "0.01",
+      "date": 1743461216733
+    },
+    {
+      "id": "f505",
+      "power": "9.51",
+      "intensity": 500,
+      "emissions": "0.01",
+      "date": 1743461276680
+    },
+    {
+      "id": "560a",
+      "power": "9.66",
+      "intensity": 500,
+      "emissions": "0.01",
+      "date": 1743461336674
+    },
+    {
+      "id": "f67b",
+      "power": "9.83",
+      "intensity": 500,
+      "emissions": "0.01",
+      "date": 1743461396757
+    },
+    {
+      "id": "fec5",
+      "power": "10.28",
+      "intensity": 500,
+      "emissions": "0.01",
+      "date": 1743461456590
+    },
+    {
+      "id": "dfb7",
+      "power": "9.51",
+      "intensity": 500,
+      "emissions": "0.01",
+      "date": 1743461516714
+    },
+    {
+      "id": "e05d",
+      "power": "9.80",
+      "intensity": 500,
+      "emissions": "0.01",
+      "date": 1743461576666
+    },
+    {
+      "id": "dd62",
+      "power": "9.61",
+      "intensity": 500,
+      "emissions": "0.01",
+      "date": 1743461636723
+    },
+    {
+      "id": "fb3b",
+      "power": "9.52",
+      "intensity": 500,
+      "emissions": "0.01",
+      "date": 1743461696611
+    },
+    {
+      "id": "bc02",
+      "power": "9.91",
+      "intensity": 500,
+      "emissions": "0.01",
+      "date": 1743461756683
+    },
+    {
+      "id": "bb2f",
+      "power": "10.02",
+      "intensity": 500,
+      "emissions": "0.01",
+      "date": 1743461816680
+    },
+    {
+      "id": "6a28",
+      "power": "10.12",
+      "intensity": 500,
+      "emissions": "0.01",
+      "date": 1743461877087
+    },
+    {
+      "id": "331a",
+      "power": "10.67",
+      "intensity": 500,
+      "emissions": "0.01",
+      "date": 1743461936674
+    },
+    {
+      "id": "5671",
+      "power": "9.79",
+      "intensity": 500,
+      "emissions": "0.01",
+      "date": 1743461996638
+    },
+    {
+      "id": "20ed",
+      "power": "9.42",
+      "intensity": 500,
+      "emissions": "0.01",
+      "date": 1743462056661
+    },
+    {
+      "id": "b48d",
+      "power": "9.60",
+      "intensity": 500,
+      "emissions": "0.01",
+      "date": 1743462116723
+    },
+    {
+      "id": "597b",
+      "power": "9.55",
+      "intensity": 500,
+      "emissions": "0.01",
+      "date": 1743462176726
+    },
+    {
+      "id": "4f3b",
+      "power": "9.42",
+      "intensity": 500,
+      "emissions": "0.01",
+      "date": 1743462236752
+    },
+    {
+      "id": "d33e",
+      "power": "9.76",
+      "intensity": 500,
+      "emissions": "0.01",
+      "date": 1743462296639
+    },
+    {
+      "id": "e8fc",
+      "power": "9.73",
+      "intensity": 500,
+      "emissions": "0.01",
+      "date": 1743462356677
+    },
+    {
+      "id": "3585",
+      "power": "9.80",
+      "intensity": 500,
+      "emissions": "0.01",
+      "date": 1743462416859
+    },
+    {
+      "id": "bf94",
+      "power": "10.14",
+      "intensity": 500,
+      "emissions": "0.01",
+      "date": 1743462476669
+    },
+    {
+      "id": "5ff9",
+      "power": "9.43",
+      "intensity": 500,
+      "emissions": "0.01",
+      "date": 1743462536917
+    },
+    {
+      "id": "3822",
+      "power": "10.00",
+      "intensity": 500,
+      "emissions": "0.01",
+      "date": 1743462596916
+    },
+    {
+      "id": "8cf6",
+      "power": "10.26",
+      "intensity": 500,
+      "emissions": "0.01",
+      "date": 1743462656923
+    },
+    {
+      "id": "69a5",
+      "power": "10.24",
+      "intensity": 500,
+      "emissions": "0.01",
+      "date": 1743462716890
+    },
+    {
+      "id": "9a29",
+      "power": "10.05",
+      "intensity": 500,
+      "emissions": "0.01",
+      "date": 1743462776879
+    },
+    {
+      "id": "e7e2",
+      "power": "9.87",
+      "intensity": 500,
+      "emissions": "0.01",
+      "date": 1743462836838
+    },
+    {
+      "id": "23b4",
+      "power": "9.77",
+      "intensity": 500,
+      "emissions": "0.01",
+      "date": 1743462896867
+    },
+    {
+      "id": "22cc",
+      "power": "9.81",
+      "intensity": 500,
+      "emissions": "0.01",
+      "date": 1743462956913
+    },
+    {
+      "id": "b7ce",
+      "power": "9.62",
+      "intensity": 500,
+      "emissions": "0.01",
+      "date": 1743463017067
+    },
+    {
+      "id": "d868",
+      "power": "9.94",
+      "intensity": 500,
+      "emissions": "0.01",
+      "date": 1743463076946
+    },
+    {
+      "id": "ae20",
+      "power": "9.86",
+      "intensity": 500,
+      "emissions": "0.01",
+      "date": 1743463136931
+    },
+    {
+      "id": "7ddb",
+      "power": "9.85",
+      "intensity": 500,
+      "emissions": "0.01",
+      "date": 1743463196839
+    },
+    {
+      "id": "b7e8",
+      "power": "9.77",
+      "intensity": 500,
+      "emissions": "0.01",
+      "date": 1743463256903
+    },
+    {
+      "id": "fbb8",
+      "power": "9.73",
+      "intensity": 500,
+      "emissions": "0.01",
+      "date": 1743463316907
+    },
+    {
+      "id": "0bf9",
+      "power": "10.02",
+      "intensity": 500,
+      "emissions": "0.01",
+      "date": 1743463376910
+    },
+    {
+      "id": "c280",
+      "power": "9.99",
+      "intensity": 500,
+      "emissions": "0.01",
+      "date": 1743463436890
+    },
+    {
+      "id": "ad69",
+      "power": "10.14",
+      "intensity": 500,
+      "emissions": "0.01",
+      "date": 1743463496979
+    },
+    {
+      "id": "5915",
+      "power": "10.29",
+      "intensity": 500,
+      "emissions": "0.01",
+      "date": 1743463556878
+    },
+    {
+      "id": "812e",
+      "power": "9.98",
+      "intensity": 500,
+      "emissions": "0.01",
+      "date": 1743463616933
+    },
+    {
+      "id": "12c2",
+      "power": "10.45",
+      "intensity": 500,
+      "emissions": "0.01",
+      "date": 1743463676844
+    },
+    {
+      "id": "1f5b",
+      "power": "10.00",
+      "intensity": 500,
+      "emissions": "0.01",
+      "date": 1743463736987
+    },
+    {
+      "id": "32e5",
+      "power": "10.55",
+      "intensity": 500,
+      "emissions": "0.01",
+      "date": 1743463797062
+    },
+    {
+      "id": "ddbb",
+      "power": "10.00",
+      "intensity": 500,
+      "emissions": "0.01",
+      "date": 1743463856895
+    },
+    {
+      "id": "c02f",
+      "power": "10.00",
+      "intensity": 500,
+      "emissions": "0.01",
+      "date": 1743463916944
+    },
+    {
+      "id": "3b82",
+      "power": "9.90",
+      "intensity": 500,
+      "emissions": "0.01",
+      "date": 1743463976831
+    },
+    {
+      "id": "7db0",
+      "power": "9.21",
+      "intensity": 500,
+      "emissions": "0.01",
+      "date": 1743464037166
+    },
+    {
+      "id": "7682",
+      "power": "9.27",
+      "intensity": 500,
+      "emissions": "0.01",
+      "date": 1743464096833
+    },
+    {
+      "id": "df01",
+      "power": "9.44",
+      "intensity": 500,
+      "emissions": "0.01",
+      "date": 1743464156762
+    },
+    {
+      "id": "73c5",
+      "power": "5.15",
+      "intensity": 500,
+      "emissions": "0.00",
+      "date": 1743465273151
+    },
+    {
+      "id": "a896",
+      "power": "12.96",
+      "intensity": 500,
+      "emissions": "0.01",
+      "date": 1743465298196
+    },
+    {
+      "id": "9ddf",
+      "power": "9.55",
+      "intensity": 500,
+      "emissions": "0.01",
+      "date": 1743465357145
+    },
+    {
+      "id": "4188",
+      "power": "9.57",
+      "intensity": 500,
+      "emissions": "0.01",
+      "date": 1743465417220
+    },
+    {
+      "id": "cfc9",
+      "power": "5.15",
+      "intensity": 500,
+      "emissions": "0.00",
+      "date": 1743467564140
+    },
+    {
+      "id": "b516",
+      "power": "22.30",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743467577192
+    },
+    {
+      "id": "8bc1",
+      "power": "13.37",
+      "intensity": 500,
+      "emissions": "0.01",
+      "date": 1743467636912
+    },
+    {
+      "id": "73eb",
+      "power": "12.04",
+      "intensity": 500,
+      "emissions": "0.01",
+      "date": 1743467697034
+    },
+    {
+      "id": "92b5",
+      "power": "12.41",
+      "intensity": 500,
+      "emissions": "0.01",
+      "date": 1743467757073
+    },
+    {
+      "id": "8692",
+      "power": "13.65",
+      "intensity": 500,
+      "emissions": "0.01",
+      "date": 1743467817769
+    },
+    {
+      "id": "f60c",
+      "power": "13.90",
+      "intensity": 500,
+      "emissions": "0.01",
+      "date": 1743467850825
+    },
+    {
+      "id": "56f6",
+      "power": "36.37",
+      "intensity": 500,
+      "emissions": "0.03",
+      "date": 1743467853085
+    },
+    {
+      "id": "8ab7",
+      "power": "22.04",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743467857938
+    },
+    {
+      "id": "f0aa",
+      "power": "20.87",
+      "intensity": 500,
+      "emissions": "0.01",
+      "date": 1743467862885
+    },
+    {
+      "id": "a07a",
+      "power": "19.86",
+      "intensity": 500,
+      "emissions": "0.01",
+      "date": 1743467867909
+    },
+    {
+      "id": "ff54",
+      "power": "21.72",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743467872959
+    },
+    {
+      "id": "8999",
+      "power": "20.09",
+      "intensity": 500,
+      "emissions": "0.01",
+      "date": 1743467877908
+    },
+    {
+      "id": "34ae",
+      "power": "19.49",
+      "intensity": 500,
+      "emissions": "0.01",
+      "date": 1743467883071
+    },
+    {
+      "id": "f691",
+      "power": "19.97",
+      "intensity": 500,
+      "emissions": "0.01",
+      "date": 1743467887888
+    },
+    {
+      "id": "a7ac",
+      "power": "22.16",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743467893134
+    },
+    {
+      "id": "21d2",
+      "power": "27.00",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743467899498
+    },
+    {
+      "id": "c1eb",
+      "power": "33.42",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743467903935
+    },
+    {
+      "id": "4917",
+      "power": "30.65",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743467909052
+    },
+    {
+      "id": "0da5",
+      "power": "13.84",
+      "intensity": 500,
+      "emissions": "0.01",
+      "date": 1743467938089
+    },
+    {
+      "id": "5844",
+      "power": "17.00",
+      "intensity": 500,
+      "emissions": "0.01",
+      "date": 1743467998598
+    },
+    {
+      "id": "1426",
+      "power": "17.39",
+      "intensity": 500,
+      "emissions": "0.01",
+      "date": 1743468058154
+    },
+    {
+      "id": "f445",
+      "power": "13.36",
+      "intensity": 500,
+      "emissions": "0.01",
+      "date": 1743468118483
+    },
+    {
+      "id": "200a",
+      "power": "14.34",
+      "intensity": 500,
+      "emissions": "0.01",
+      "date": 1743468178267
+    },
+    {
+      "id": "15db",
+      "power": "14.04",
+      "intensity": 500,
+      "emissions": "0.01",
+      "date": 1743468238296
+    },
+    {
+      "id": "ad47",
+      "power": "14.13",
+      "intensity": 500,
+      "emissions": "0.01",
+      "date": 1743468269285
+    },
+    {
+      "id": "7ab6",
+      "power": "50.91",
+      "intensity": 500,
+      "emissions": "0.04",
+      "date": 1743468271170
+    },
+    {
+      "id": "4445",
+      "power": "50.71",
+      "intensity": 500,
+      "emissions": "0.04",
+      "date": 1743468274203
+    },
+    {
+      "id": "f64e",
+      "power": "35.61",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743468279157
+    },
+    {
+      "id": "efa4",
+      "power": "36.84",
+      "intensity": 500,
+      "emissions": "0.03",
+      "date": 1743468284018
+    },
+    {
+      "id": "23a2",
+      "power": "33.30",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743468288855
+    },
+    {
+      "id": "df3c",
+      "power": "27.17",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743468294140
+    },
+    {
+      "id": "5791",
+      "power": "29.45",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743468299091
+    },
+    {
+      "id": "a5ab",
+      "power": "31.27",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743468303876
+    },
+    {
+      "id": "2c07",
+      "power": "27.31",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743468309055
+    },
+    {
+      "id": "1fa8",
+      "power": "28.10",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743468313802
+    },
+    {
+      "id": "30dc",
+      "power": "26.53",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743468318852
+    },
+    {
+      "id": "d5b0",
+      "power": "26.26",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743468323832
+    },
+    {
+      "id": "439b",
+      "power": "26.30",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743468328907
+    },
+    {
+      "id": "15b8",
+      "power": "26.75",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743468333770
+    },
+    {
+      "id": "6810",
+      "power": "12.52",
+      "intensity": 500,
+      "emissions": "0.01",
+      "date": 1743468358250
+    },
+    {
+      "id": "90df",
+      "power": "38.76",
+      "intensity": 500,
+      "emissions": "0.03",
+      "date": 1743468362549
+    },
+    {
+      "id": "a845",
+      "power": "52.81",
+      "intensity": 500,
+      "emissions": "0.04",
+      "date": 1743468364666
+    },
+    {
+      "id": "f584",
+      "power": "35.46",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743468368802
+    },
+    {
+      "id": "fd2e",
+      "power": "27.29",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743468374146
+    },
+    {
+      "id": "26ca",
+      "power": "29.09",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743468378899
+    },
+    {
+      "id": "66d1",
+      "power": "26.44",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743468383785
+    },
+    {
+      "id": "24ec",
+      "power": "25.96",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743468388864
+    },
+    {
+      "id": "a7e6",
+      "power": "26.93",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743468393915
+    },
+    {
+      "id": "e440",
+      "power": "28.05",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743468398848
+    },
+    {
+      "id": "ae36",
+      "power": "27.22",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743468404069
+    },
+    {
+      "id": "326b",
+      "power": "33.62",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743468409091
+    },
+    {
+      "id": "9b26",
+      "power": "33.47",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743468413810
+    },
+    {
+      "id": "44ad",
+      "power": "30.84",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743468418921
+    },
+    {
+      "id": "9e75",
+      "power": "28.17",
+      "intensity": 500,
+      "emissions": "0.02",
+      "date": 1743468423955
+    },
+    {
+      "id": "644e",
+      "power": "10.73",
+      "intensity": 500,
+      "emissions": "0.01",
+      "date": 1743468478101
+    },
+    {
+      "id": "33a0",
+      "power": "17.02",
+      "intensity": 500,
+      "emissions": "0.01",
+      "date": 1743468538669
+    },
+    {
+      "id": "0a7d",
+      "power": "18.58",
+      "intensity": 500,
+      "emissions": "0.01",
+      "date": 1743468597924
+    },
+    {
+      "id": "298f",
+      "power": "18.58",
+      "intensity": 500,
+      "emissions": "0.01",
+      "date": 1743468623281
+    },
+    {
+      "id": "0875",
+      "power": "48.71",
+      "intensity": 500,
+      "emissions": "0.03",
+      "date": 1743468625035
+    },
+    {
+      "id": "3bb0",
+      "power": "41.10",
+      "intensity": 500,
+      "emissions": "0.03",
+      "date": 1743468629333
+    }
+  ],
+  "lastfm": []
+}

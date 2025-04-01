@@ -1,0 +1,25 @@
+<div class="card">
+  <div class="title">
+    Мониторинг выбросов CO₂ в реальном времени
+  </div>
+  <div class="item">
+    <div class="text">Текущая мощность:</div>
+    <div class="value">{{ statistic.currentPower }} Вт</div>
+  </div>
+  <div class="item">
+    <div class="text">Углеродоемкость:</div>
+    <div class="value">{{ statistic.intensity }}  г CO₂/кВт·ч</div>
+  </div>
+  <div class="item">
+    <div class="text">Выбросы за {{ CO2Config.CHECK_INTERVAL / 1000 }} сек:</div>
+    <div class="value">{{ statistic.emissions }} г</div>
+  </div>
+  <div class="item">
+    <div class="text">Всего за сеанс: </div>
+    <div class="value">{{ statistic.totalEmissions }} г CO₂</div>
+  </div>
+  <div class="item">
+    <div class="text">Всего за все время: </div>
+    <div class="value">{{ statistic.globalEmissions }} г CO₂</div>
+  </div>
+</div>
